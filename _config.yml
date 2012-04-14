@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://www.cleanweb.org.uk
+title: Cleanweb UK
+subtitle: saving the world for the web
+author: James Smith
 simple_search: http://google.com/search
 description:
 
