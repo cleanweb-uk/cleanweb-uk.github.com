@@ -4,7 +4,7 @@ layout: page
 
 We are **Cleanweb UK**, a group dedicated to raising the profile of cleanweb efforts in the UK.
 
-> Cleanweb (noun): software development, particularly web-based, which aims to make a more sustainable society
+> Cleanweb: software development, particularly web-based, which aims to make human society more sustainable
 
 We have a big problem to solve, and the web is the fastest-moving tool we have. Whether you're building
 energy monitoring systems, helping people network around local food, or making the web itself greener,
