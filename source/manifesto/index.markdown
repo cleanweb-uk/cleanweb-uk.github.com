@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Manifesto"
-comments: false
+comments: true
 sharing: true
 footer: true
 ---
