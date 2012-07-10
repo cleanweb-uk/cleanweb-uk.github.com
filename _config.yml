@@ -4,9 +4,9 @@
 
 url: http://www.cleanweb.org.uk
 title: Cleanweb UK
-subtitle: building a movement to use the web for sustainability
+subtitle: building a movement for the sustainable web
 author: Cleanweb UK
-simple_search: http://google.com/search
+simple_search:
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
