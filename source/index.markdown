@@ -1,9 +1,15 @@
 ---
-layout: page
+layout: default
 sharing: false
 ---
 
 <div class="span9">
+  
+  <div class='hero-unit'>
+    <h1>{{site.title}}</h1>
+    <h2>{{site.subtitle}}</h2>
+  </div>
+  
   {% assign index = true %}
   {% for post in site.posts %}
   {% assign content = post.content %}
@@ -20,4 +26,11 @@ sharing: false
     <li class="next"><a href="{{paginator.previous_page}}">Newer &rarr;</a></li>
     {% endif %}
   </ul>
+</div>
+<div class="sidebar-nav span3">
+  {% if site.blog_index_asides.size %}
+    {% include_array blog_index_asides %}
+  {% else %}
+    {% include_array default_asides %}
+  {% endif %}
 </div>
