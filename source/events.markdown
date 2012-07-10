@@ -6,6 +6,14 @@ sharing: true
 footer: true
 ---
 
+Ignite Cleanweb
+---------------
+**Thursday 13th September 2012**
+
+An exciting evening of dynamic and interesting talks, all about the Cleanweb movement in the UK.
+
+See the [blog posts](http://cleanweb.dev/blog/categories/ignite/) for more information
+
 Meetups
 -------
 

@@ -2,7 +2,7 @@
 layout: page
 title: "contact"
 comments: false
-sharing: false
+sharing: true
 footer: true
 ---
 
