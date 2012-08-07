@@ -1,0 +1,9 @@
+div.logo {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+div.logo img {
+  width: 231px;
+  height: 400px;
+}
