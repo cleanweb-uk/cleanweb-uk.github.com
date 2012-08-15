@@ -12,7 +12,7 @@ Ignite Cleanweb
 
 An exciting evening of dynamic and interesting talks, all about the Cleanweb movement in the UK.
 
-See the [blog posts](/blog/categories/ignite/) for more information
+See our [Ignite page](/ignite.html) for more information
 
 Meetups
 -------

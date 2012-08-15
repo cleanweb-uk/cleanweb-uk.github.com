@@ -1,0 +1,60 @@
+---
+layout: page
+sharing: true
+---
+
+<div style='text-align: center'>
+  <img src='images/ignite_cleanweb.png' width='400' height='300'/>
+  <h1>Thursday, September 13, 2012</h1>
+  <h3>7:00pm, at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in London</h3>
+</div>
+
+<p style='margin-top: 20px'>
+  Cleanweb UK are excited to announce our first <a href='http://igniteshow.com'>Ignite</a> evening in London, hosted by 
+  <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a>! Come along and see 12 lightning talks all 
+  about what's happening with sustainability and the web in the UK.
+</p>
+<p>
+  From clean clouds, to home energy, to climate visualisation, there will plenty to learn, and plenty of other attendees
+  to get to know. It'll be an evening to remember, so make sure you're there!
+</p>
+<p style='text-align: center'>
+  <a href='http://www.meetup.com/Cleanweb-London/events/72550332/' class='btn btn-large btn-primary'>Register Now!</a>
+  <a href='http://lanyrd.com/2012/ignite-cleanweb/' class='btn btn-large'>Join in on Lanyrd</a>
+</p>
+<div class='well'>
+  <div class='row-fluid'>
+    <div style='text-align:center'>
+      <h3>Speakers</h3>
+    </div>
+    <div class='span2'></div>
+    <div class='span4'>
+      <ul class="unstyled">
+        <li><a href='http://loco2.com'>Jon Leighton</a>, Loco2</li>
+        <li><a href='http://whipcar.com'>Tom Wright</a>, Whipcar</li>
+        <li><a href='http://openenergymonitor.org'>Glyn Hudson</a>, OpenEnergyMonitor</li>
+        <li><a href='http://uswitch.com'>Jason Neylon</a>, uSwitch</li>
+        <li><a href='http://twitter.com/misced'>Ed Murfitt</a></li>
+        <li><a href='http://twitter.com/mrchrisadams'>Chris Adams</a>, AMEE</li>
+      </ul>
+    </div>
+    <div class='span5'>
+      <ul class="unstyled">
+        <li><a href='http://juliesbicycle.com'>Alison Tickell</a>, Julie's Bicycle</li>
+        <li><a href='http://sustaination.co'>Sustaination</a></li>
+        <li><a href='http://twitter.com/robinhouston'>Robin Houston</a>, Carbon Map</li>
+        <li><a href='http://globe-town.org'>Jack Townsend</a>, Globe Town</li>
+        <li><a href='http://twitter.com/gshutler'>Garry Shutler</a></li>
+        <li><a href='http://twitter.com/floppy'>James Smith</a>, Cleanweb UK</li>
+      </ul>
+    </div>
+    <div class='span2'></div>
+  </div>
+</div>
+<hr/>
+<h1>Blog Posts</h1>
+{% for post in site.categories['ignite'] reverse %}
+<article>
+  {% include archive_post.html %}
+</article>
+{% endfor %}
