@@ -11,7 +11,7 @@ sharing: false
   </div>
   
   {% assign index = true %}
-  {% for post in site.posts %}
+  {% for post in site.posts limit:1 %}
   {% assign content = post.content %}
     <article>
       {% include article.html %}
