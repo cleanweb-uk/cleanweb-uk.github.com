@@ -1,6 +1,7 @@
 ---
 layout: page
 sharing: true
+comments: true
 ---
 
 <div style='text-align: center'>
