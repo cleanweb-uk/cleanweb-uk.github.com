@@ -6,9 +6,11 @@ sharing: true
 footer: true
 ---
 
-We are **Cleanweb UK**, a group dedicated to raising the profile of cleanweb efforts in the UK.
+We are **Cleanweb UK**, a non-profit group dedicated to raising the profile of the cleanweb movement in the UK.
 
-> Cleanweb: software development, particularly web-based, which aims to make human society more sustainable
+<div class='well'>
+  Cleanweb: software development, particularly web-based, which aims to make human society more sustainable
+</div>
 
 We have a big problem to solve, and the web is the fastest-moving tool we have. Whether you're building
 energy monitoring systems, helping people network around local food, or making the web itself greener,
@@ -17,3 +19,43 @@ board!
 
 If you're part of the cleanweb and want help, information, or just the knowledge that there's someone else
 out there, **Cleanweb UK** is for you.
+
+Team
+----
+
+Cleanweb UK is run by volunteers from the community, mainly:
+
+<div class='row-fluid'>
+  <div class='span3'>
+    <img src='https://secure.gravatar.com/avatar/c150a49c7709fa40bffca545ecf8942d?s=50' class='pull-left avatar'/>
+    <strong>James Smith</strong><br/>
+    <a href='http://www.therm.uk.com'>Therm</a><br/>
+    <a href='http://twitter.com/floppy'>@floppy</a>
+  </div>
+  <div class='span3'>
+    <img src='https://secure.gravatar.com/avatar/f714edfc5fb866afe3a2891450596814?s=50' class='pull-left avatar'/>
+    <strong>Chris Adams</strong><br/>
+    <a href='http://amee.com'>AMEE</a><br/>
+    <a href='http://twitter.com/mrchrisadams'>@mrchrisadams</a>
+  </div>
+  <div class='span3'>
+    <img src='https://secure.gravatar.com/avatar/81b7f1163094366a9200678bf9c05697?s=50' class='pull-left avatar'/>
+    <strong>Jason Neylon</strong><br/>
+    <a href='http://uswitch.com'>uSwitch</a><br/>
+    <a href='http://twitter.com/jasonneylon'>@jasonneylon</a>
+  </div>
+  <div class='span3'>
+    <img src='https://secure.gravatar.com/avatar/324c1cedf36b59d44a13e76868af4b8d?s=50' class='pull-left avatar'/>
+    <strong>Bruce Durling</strong><br/>
+    <a href='http://mastodonc.com'>Mastodon C</a><br/>
+    <a href='http://twitter.com/otfrom'>@otfrom</a>
+  </div>
+</div>
+
+Getting Involved
+----------------
+
+To get involved, just join the conversation using any of the methods on the <a href='/contact.html'>Contact</a> page, or come
+along to one of our <a href='/events.html'>events</a>. Alternatively,
+our website code is on <a href='http://github.com/cleanweb-uk'>Github</a>, so if you want to add something to the site, just fork it and send
+us a pull request!
