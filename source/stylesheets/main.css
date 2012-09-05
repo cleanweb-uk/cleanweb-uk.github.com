@@ -17,3 +17,7 @@ img.avatar {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+
+#talks dd {
+  margin-bottom: 5px;
+}
