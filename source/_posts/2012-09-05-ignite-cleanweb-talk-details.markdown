@@ -1,11 +1,11 @@
 ---
 layout: post
 title: "Ignite Cleanweb Talk Details"
-date: 2012-09-04 11:05
+date: 2012-09-05 12:05
 comments: true
 categories: [events, ignite, london]
 ---
-Just 10 days to go until <a href='/ignite.html'>Ignite Cleanweb</a> comes to London!
+Just 8 days to go until <a href='/ignite.html'>Ignite Cleanweb</a> comes to London!
 
 We've nearly finalised the list of talks, and have put the titles and speakers up on our <a href='/ignite.html'>Ignite</a> page.
 
