@@ -9,7 +9,7 @@ footer: true
 We are **Cleanweb UK**, a non-profit group dedicated to raising the profile of the cleanweb movement in the UK.
 
 <div class='well'>
-  Cleanweb: software development, particularly web-based, which aims to make human society more sustainable
+  Cleanweb is where cleantech meets the cloud; where sustainability meets social media.
 </div>
 
 We have a big problem to solve, and the web is the fastest-moving tool we have. Whether you're building
