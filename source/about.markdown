@@ -17,7 +17,7 @@ energy monitoring systems, helping people network around local food, or making t
 if you're developing online tools for sustainability, you're part of the cleanweb. Glad to have you on 
 board!
 
-If you're part of the cleanweb and want help, information, or just the knowledge that there's someone else
+If you're working on the cleanweb and want help, information, or just the knowledge that there's someone else
 out there, **Cleanweb UK** is for you.
 
 Team
