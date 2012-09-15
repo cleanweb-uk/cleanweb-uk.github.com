@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ignite Cleanweb: What a Night"
+title: "Because we don't want to bluescreen the planet"
 date: 2012-09-15 23:14
 comments: true
 categories: [events, ignite, london]
@@ -10,9 +10,9 @@ On Thursday 13th September, we ran our first ever Ignite Cleanweb event, at a fa
 
 And to put not too fine a point on it, it seems to have went far better than we dared hope - we wanted to showcase some of the best work happening at the intersection between sustainability and the web, and we had a clutch of speakers doing just that, showing how they were using the web to rethink mobility, mapping, and energy, food and supply chains to name a few of the talks on the night.
 
-But don't just take my word for it - we already have enough people saying nice things about the night on the internet for us to feel pretty damn chuffed about the night already. 
+But don't just take my word for it - we already [have enough people saying nice things about the night](http://www.meetup.com/Cleanweb-London/events/72550332/) on the internet for us to feel pretty damn chuffed about the night already. 
 
-In particular, Ed Dowding (disclosure - one of the speakers on the night) actually beat us to this post by a full day, and managed to say write something following the announcement of the Cleanweb Manifesto that we couldn't help but quote here about the night:
+In particular, [Ed Dowding (disclosure - one of the speakers on the night)](http://sustaination.co/2012/09/cleanweb-the-power-of-software-to-save-the-world/#) actually beat us to this post by a full day, and managed to say write something following the announcement of the Cleanweb Manifesto that we couldn't help but quote here about the night:
 
 > It’s quite brilliant that the internet has come along just at the right time (albeit very much at the 11th hour). It is open, abundant, distributed. It mocks time and space. It brings people together to share and learn and change. It inspires, motivates, and empowers. It makes doing better easier. Of course it does not have all the solutions, but it mediates and sets the tone for many of them.
 
