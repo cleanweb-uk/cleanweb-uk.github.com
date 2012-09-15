@@ -22,3 +22,10 @@ In particular, [Ed Dowding (disclosure - one of the speakers on the night)](http
 
 If you missed the event, or if you just fancy watching the talks again, James is currently slicing up the recordings of the talks to put online and to drop into this post - once they're up, we'll add the videos on to this page.
 
+### Still want more?
+
+If you're feeling full of inspiration, and heading to the [Open Knowledge Festival in Helsinki](http://okfestival.org/), there's a [cleanweb-themed Green Hackathon](http://www.meetup.com/Cleanweb-London/events/81444932/) taking place where you can see what others are doing, and hack on a project yourself.
+
+Alternatively, if you're in London, you might also be interested in our [next social pub-meet](http://www.meetup.com/Cleanweb-London/events/81444932/), at that Old Street startup stalwart, the Reliance. 
+
+See you there hopefully!
