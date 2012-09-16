@@ -4,9 +4,10 @@ title: "Because we don't want to bluescreen the planet"
 date: 2012-09-15 23:14
 comments: true
 categories: [events, ignite, london]
+author: Chris Adams
 ---
 
-On Thursday 13th September, we ran our first ever Ignite Cleanweb event, at a fantastic venue  generously provided by the lovely people at Forward.
+On Thursday 13th September, we ran our first ever Ignite Cleanweb event, at a fantastic venue  generously provided by the lovely people at [Forward](http://forwardtechnology.co.uk).
 
 And to put not too fine a point on it, it seems to have went far better than we dared hope - we wanted to showcase some of the best work happening at the intersection between sustainability and the web, and we had a clutch of speakers doing just that, showing how they were using the web to rethink mobility, mapping, and energy, food and supply chains to name a few of the talks on the night.
 
@@ -20,7 +21,9 @@ In particular, [Ed Dowding (disclosure - one of the speakers on the night)](http
 
 > The presentations were also truly, deeply, brilliantly, emotionally, practically, socially inspiring.
 
-If you missed the event, or if you just fancy watching the talks again, James is currently slicing up the recordings of the talks to put online and to drop into this post - once they're up, we'll add the videos on to this page.
+If you missed the event, or if you just fancy watching the talks again, you can watch them all on the [Ignite website](http://igniteshow.com/events/ignite-cleanweb), on [Youtube](https://www.youtube.com/playlist?list=PLUPaWd5mPJEGJK0vLva0AEvRIj35DKl2e), or right here:
+
+<iframe width="853" height="480" src="http://www.youtube.com/embed/videoseries?list=PLUPaWd5mPJEGJK0vLva0AEvRIj35DKl2e&amp;hl=en_US" frameborder="0" allowfullscreen></iframe>
 
 ### Still want more?
 
