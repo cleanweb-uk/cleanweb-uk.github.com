@@ -4,6 +4,7 @@ title: "Ignite Cleanweb: Call for presenters"
 date: 2012-07-10 08:39
 comments: true
 categories: [events, ignite, london]
+author: James Smith
 ---
 
 [Cleanweb UK](http://www.cleanweb.org.uk/) are excited to announce our first [Ignite](http://igniteshow.com/) evening in London, hosted by [Forward Technology](http://forwardtechnology.co.uk/venue) on **Thursday 13th September 2012**.

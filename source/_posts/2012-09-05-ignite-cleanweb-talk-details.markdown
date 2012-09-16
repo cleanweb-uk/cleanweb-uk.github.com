@@ -4,6 +4,7 @@ title: "Ignite Cleanweb Talk Details"
 date: 2012-09-05 12:05
 comments: true
 categories: [events, ignite, london]
+author: James Smith
 ---
 Just 8 days to go until <a href='/ignite.html'>Ignite Cleanweb</a> comes to London!
 
