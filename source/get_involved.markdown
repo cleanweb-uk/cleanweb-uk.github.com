@@ -4,6 +4,7 @@ title: "Get Involved"
 comments: false
 sharing: true
 footer: true
+alias: /contact.html
 ---
 
 <div class='well'>
