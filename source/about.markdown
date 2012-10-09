@@ -52,10 +52,7 @@ Cleanweb UK is run by volunteers from the community, mainly:
   </div>
 </div>
 
-Getting Involved
-----------------
+Contacting us
+-------------
 
-To get involved, just join the conversation using any of the methods on the <a href='/contact.html'>Contact</a> page, or come
-along to one of our <a href='/events.html'>events</a>. Alternatively,
-our website code is on <a href='http://github.com/cleanweb-uk'>Github</a>, so if you want to add something to the site, just fork it and send
-us a pull request!
+To talk to us directly, get in touch via [info@cleanweb.org.uk](mailto:info@cleanweb.org.uk)
