@@ -17,4 +17,4 @@ So, if you're a developer, maker, or innovator, and love a challenge, why not pi
 
 Cleanweb UK will be here to help you find a way to make your project sustainable, whether that's finding a business or non-profit funding model, pointing you to people who can help, or just putting you in touch with like-minded friends you didn't know you had. 
 
-Stop selling people to advertisers. Join us, and let's fix the future.
+Stop selling people to advertisers. [Join us](/get_involved.html), and let's fix the future.
