@@ -12,7 +12,7 @@ footer: true
 </div>
 <p>
 <strong>By email</strong><br/>
-Join the discussion <a href='https://groups.google.com/d/forum/cleanweb-uk'>Cleanweb UK mailing list</a>.
+Join the discussion on the <a href='https://groups.google.com/d/forum/cleanweb-uk'>Cleanweb UK mailing list</a>.
 </p>
 </div>
 
