@@ -3,7 +3,7 @@ layout: post
 title: "Mobilizing Developers to Make a Better Future"
 date: 2012-10-09 11:10
 comments: true
-categories: manifesto, developers
+categories: manifesto developers
 author: James Smith
 ---
 
