@@ -37,23 +37,35 @@ Cleanweb UK is organised by:
 #### Assisted by:
 
 <div class='row-fluid'>
-  <div class='span3'>
+  <div class='span5'>
     <img src='https://secure.gravatar.com/avatar/f714edfc5fb866afe3a2891450596814?s=50' class='pull-left avatar'/>
     <strong>Chris Adams</strong><br/>
     <a href='http://twitter.com/mrchrisadams'>@mrchrisadams</a><br/>
     <a href='http://amee.com'>AMEE</a><br/>
   </div>
-  <div class='span3'>
-    <img src='https://secure.gravatar.com/avatar/81b7f1163094366a9200678bf9c05697?s=50' class='pull-left avatar'/>
+  <div class='span5'>
+    <img src='https://twimg0-a.akamaihd.net/profile_images/102028940/jnsp_normal.jpg' class='pull-left avatar'/>
     <strong>Jason Neylon</strong><br/>
     <a href='http://twitter.com/jasonneylon'>@jasonneylon</a><br/>
     <a href='http://uswitch.com'>uSwitch</a><br/>
   </div>
-  <div class='span3'>
+  <div class='span2'>
+  </div>
+</div>
+<div class='row-fluid'>
+  <div class='span2'>
+  </div>
+  <div class='span5'>
     <img src='https://secure.gravatar.com/avatar/324c1cedf36b59d44a13e76868af4b8d?s=50' class='pull-left avatar'/>
     <strong>Bruce Durling</strong><br/>
     <a href='http://twitter.com/otfrom'>@otfrom</a><br/>
     <a href='http://mastodonc.com'>Mastodon C</a><br/>
+  </div>
+  <div class='span5'>
+    <img src='https://twimg0-a.akamaihd.net/profile_images/2510539366/mzocdbug2i04qw3au7x5_normal.gif' class='pull-left avatar'/>
+    <strong>Jack Townsend</strong><br/>
+    <a href='http://twitter.com/JackTownsend_'>@JackTownsend_</a><br/>
+    <a href='http://www.soton.ac.uk'>University of Southampton</a><br/>
   </div>
 </div>
 
