@@ -7,7 +7,7 @@ categories: awards
 author: James Smith
 ---
 
-In December, we'll be holding our first <a href='http://www.meetup.com/Cleanweb-London/events/83832442/'>Cleanweb Awards</a> ceremony at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in Camden. It'll be a fun evening celebrating all the achievments of the cleanweb community, and giving out a few awards as well. 
+On 17th December, we'll be holding our first <a href='http://www.meetup.com/Cleanweb-London/events/83832442/'>Cleanweb Awards</a> ceremony at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in Camden. It'll be a fun evening celebrating all the achievments of the cleanweb community, and giving out a few awards as well. 
 
 As it's community-driven, we want <strong>your</strong> nominations for the awards! Just fill in the form below to let us know who you think should be in the running.
 
