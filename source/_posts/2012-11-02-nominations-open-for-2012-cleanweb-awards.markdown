@@ -4,6 +4,7 @@ title: "Nominations now open for 2012 Cleanweb Awards"
 date: 2012-11-02 12:50
 comments: true
 categories: awards
+author: James Smith
 ---
 
 In December, we'll be holding our first <a href='http://www.meetup.com/Cleanweb-London/events/83832442/'>Cleanweb Awards</a> ceremony at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in Camden. It'll be a fun evening celebrating all the achievments of the cleanweb community, and giving out a few awards as well. 
