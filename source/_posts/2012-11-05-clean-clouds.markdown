@@ -13,7 +13,7 @@ So, we're excited to announce our first talk night on 19th November, 7pm at the 
 
 * __Francine Bennett, [Mastodon C](http://mastodonc.com)__: Reducing the environmental impact of big data.
 * __Nigel Stevens, [Infinity SDC](infinitysdc.net)__: Creating environmentally-friendly datacentres.
-* __Andy Piper, [VMWare](https://www.vmware.com/uk/)__: Cloudfoundry, the open source cloud computing platform
+* __Andy Piper, [VMware](https://www.vmware.com/uk/)__: Cloud Foundry, the open source cloud computing platform
 
 Talks will be finished by 9, so we'll be heading to a nearby pub for a drink and a chat afterwards.
 
