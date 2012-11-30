@@ -33,7 +33,7 @@ Come and join <a href='irc://irc.freenode.net/##cleanweb'>##cleanweb</a> on irc.
 </div>
 <p>
 <strong>On Twitter</strong><br/>
-Follow <a href='https://twitter.com/intent/follow?screen_name=cleanwebuk'>@cleanwebuk</a>, and join the global discussion on the <a href='http://twitter.com/search/%23cleanweb'>#cleanweb</a> hashtag.
+Follow <a href='https://twitter.com/intent/follow?screen_name=cleanwebuk'>@cleanwebuk</a> (and internationally, <a href='https://twitter.com/intent/follow?screen_name=cleanwebhack'>@cleanwebhack</a>), and join the worldwide discussion on the <a href='http://twitter.com/search/%23cleanweb'>#cleanweb</a> hashtag.
 </p>
 </div>
 
