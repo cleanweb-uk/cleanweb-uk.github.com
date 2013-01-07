@@ -6,27 +6,30 @@ sharing: true
 footer: true
 ---
 
-Ignite Cleanweb
----------------
-**Thursday 13th September 2012**
 
-An exciting evening of dynamic and interesting talks, all about the Cleanweb movement in the UK.
-
-See our [Ignite page](/ignite.html) for more information
-
-Meetups
+Cleanweb London
 -------
 
-Informal meetups to have a beer and keep up with what's going on in Cleanweb:
+We have a very active London meetup group; it's probably the biggest Cleanweb group in the world, with nearly 200 members. We meet regularly for pub discussions and slightly more formal talk nights. We recently ran [Ignite Cleanweb](/ignite.html), a massively successful lightning talk evening. If you want a flavour, go watch the videos.
 
-* [London](http://www.meetup.com/Cleanweb-London)
-* [Brighton](http://www.meetup.com/Cleanweb-Brighton)
+* [Join Cleanweb London](http://www.meetup.com/Cleanweb-London)
+
+Other Meetups
+-------------
+
+* [Cleanweb Brighton](http://www.meetup.com/Cleanweb-Brighton) (currently bootstrapping, join up!)
 
 
 Hackdays
 --------
 
-Find a hackday near you!
+Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) to get the latest updates.
+
+Upcoming:
+
+* [Off The Rails](https://offtherails.eventbrite.co.uk/), Oct 13, London
+
+Ongoing series:
 
 * [Cleanweb Hackathon](http://cleanwebhack.com)
 * [Green Hackathon](http://greenhackathon.com)

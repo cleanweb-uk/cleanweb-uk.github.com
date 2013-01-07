@@ -23,39 +23,53 @@ out there, **Cleanweb UK** is for you.
 Team
 ----
 
-Cleanweb UK is run by volunteers from the community, mainly:
+Cleanweb UK is organised by:
 
-<div class='row-fluid'>
-  <div class='span3'>
+<div class='row-fluid' style="margin-bottom:20px">
+  <div class='span6'>
     <img src='https://secure.gravatar.com/avatar/c150a49c7709fa40bffca545ecf8942d?s=50' class='pull-left avatar'/>
-    <strong>James Smith</strong><br/>
-    <a href='http://www.therm.uk.com'>Therm</a><br/>
-    <a href='http://twitter.com/floppy'>@floppy</a>
-  </div>
-  <div class='span3'>
-    <img src='https://secure.gravatar.com/avatar/f714edfc5fb866afe3a2891450596814?s=50' class='pull-left avatar'/>
-    <strong>Chris Adams</strong><br/>
-    <a href='http://amee.com'>AMEE</a><br/>
-    <a href='http://twitter.com/mrchrisadams'>@mrchrisadams</a>
-  </div>
-  <div class='span3'>
-    <img src='https://secure.gravatar.com/avatar/81b7f1163094366a9200678bf9c05697?s=50' class='pull-left avatar'/>
-    <strong>Jason Neylon</strong><br/>
-    <a href='http://uswitch.com'>uSwitch</a><br/>
-    <a href='http://twitter.com/jasonneylon'>@jasonneylon</a>
-  </div>
-  <div class='span3'>
-    <img src='https://secure.gravatar.com/avatar/324c1cedf36b59d44a13e76868af4b8d?s=50' class='pull-left avatar'/>
-    <strong>Bruce Durling</strong><br/>
-    <a href='http://mastodonc.com'>Mastodon C</a><br/>
-    <a href='http://twitter.com/otfrom'>@otfrom</a>
+    <strong>Lead Organiser: James Smith</strong><br/>
+    <a href='http://twitter.com/floppy'>@floppy</a><br/>
+    <a href='http://therm.uk.com'>Therm</a><br/>
   </div>
 </div>
 
-Getting Involved
-----------------
+#### Assisted by:
 
-To get involved, just join the conversation using any of the methods on the <a href='/contact.html'>Contact</a> page, or come
-along to one of our <a href='/events.html'>events</a>. Alternatively,
-our website code is on <a href='http://github.com/cleanweb-uk'>Github</a>, so if you want to add something to the site, just fork it and send
-us a pull request!
+<div class='row-fluid'>
+  <div class='span5'>
+    <img src='https://secure.gravatar.com/avatar/f714edfc5fb866afe3a2891450596814?s=50' class='pull-left avatar'/>
+    <strong>Chris Adams</strong><br/>
+    <a href='http://twitter.com/mrchrisadams'>@mrchrisadams</a><br/>
+    <a href='http://amee.com'>AMEE</a><br/>
+  </div>
+  <div class='span5'>
+    <img src='https://twimg0-a.akamaihd.net/profile_images/102028940/jnsp_normal.jpg' class='pull-left avatar'/>
+    <strong>Jason Neylon</strong><br/>
+    <a href='http://twitter.com/jasonneylon'>@jasonneylon</a><br/>
+    <a href='http://uswitch.com'>uSwitch</a><br/>
+  </div>
+  <div class='span2'>
+  </div>
+</div>
+<div class='row-fluid'>
+  <div class='span2'>
+  </div>
+  <div class='span5'>
+    <img src='https://secure.gravatar.com/avatar/324c1cedf36b59d44a13e76868af4b8d?s=50' class='pull-left avatar'/>
+    <strong>Bruce Durling</strong><br/>
+    <a href='http://twitter.com/otfrom'>@otfrom</a><br/>
+    <a href='http://mastodonc.com'>Mastodon C</a><br/>
+  </div>
+  <div class='span5'>
+    <img src='https://twimg0-a.akamaihd.net/profile_images/2510539366/mzocdbug2i04qw3au7x5_normal.gif' class='pull-left avatar'/>
+    <strong>Jack Townsend</strong><br/>
+    <a href='http://twitter.com/JackTownsend_'>@JackTownsend_</a><br/>
+    <a href='http://www.soton.ac.uk'>University of Southampton</a><br/>
+  </div>
+</div>
+
+Contacting us
+-------------
+
+To talk to us directly, get in touch via [info@cleanweb.org.uk](mailto:info@cleanweb.org.uk)

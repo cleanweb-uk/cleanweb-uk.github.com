@@ -4,6 +4,7 @@ title: "The Growing Cleanweb Movement"
 date: 2012-09-11 21:23
 comments: true
 categories: 
+author: James Smith
 ---
 There is a movement growing. Bit by bit, developers are using the power of the web to make our world more sustainable. Whether by improving the way we travel, the way we eat, or the way we use energy, the web is making a difference. The [Cleanweb](http://cleanweb.co) movement is building a global conversation, with local chapters running hackdays and meetups to get people together all over the world.
 

@@ -4,6 +4,7 @@ title: "Register now for Ignite Cleanweb!"
 date: 2012-08-15 22:27
 comments: true
 categories: [events, ignite, london]
+author: James Smith
 ---
 It's only a month until <a href='/ignite.html'>Ignite Cleanweb</a> hits London!
 
