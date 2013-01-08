@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: meetup | Cleanweb UK]]></title>
+  <link href="http://www.cleanweb.org.uk/blog/categories/meetup/atom.xml" rel="self"/>
+  <link href="http://www.cleanweb.org.uk/"/>
+  <updated>2013-01-08T00:21:53+00:00</updated>
+  <id>http://www.cleanweb.org.uk/</id>
+  <author>
+    <name><![CDATA[Cleanweb UK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Open Data and the Environment]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment/"/>
+    <updated>2013-01-07T23:59:00+00:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment</id>
+    <content type="html"><![CDATA[<p>It's the start of a new year, which can only mean one thing new meetup for the new month!</p>
+
+<p>For our first meet up of the year on <strong>Monday 21st Jan</strong>, we'll be looking into the terribly trendy world of Open data, fitting enough, at swanky offices of the <a href="http://theodi.org/">Open Data Institute</a>.</p>
+
+<p>We'll be covering how open data is being used around the world, with speakers from academia, government and startups giving a series of short (15 mins each) talks, showing how people are using it to fight climate change.</p>
+
+<h3>Speakers:</h3>
+
+<ul>
+<li><p><strong><a href="http://www.jacktownsend.net">Jack Townsend, University of Southhampton</a></strong>: Open sustainability: can opening up knowledge save the planet?</p></li>
+<li><p><strong><a href="http://wearehomely.com">Seb Junemann &amp; Jamie Young, Homely</a></strong>: Using open data to stimulate energy-efficient behaviour</p></li>
+<li><p><strong><a href="http://www.london.gov.uk/">Tom Chance, Greater London Authority</a></strong>: Two years of open environmental data releases</p></li>
+<li><p><strong><a href="http://hiyamaya.wordpress.com/">Maya Forstater</a></strong>: Doing the sustainability math: can open data help us work out 9 billion divided by 1?</p></li>
+</ul>
+
+
+<p><strong>Doors open at 6:30pm, and our first talk begins promptly at 7pm</strong>.</p>
+
+<p>After the talks are finished, we'll be holding a few minutes Q &amp; A
+for the speakers, before heading out by 9pm to continuing the conversation outside the ODI, in <a href="http://www.thefoxpublichouse.co.uk">The Fox pub</a>.</p>
+
+<p>Places are limited but free, and you do need to RVSP, so if this sounds interesting to you, <a href="http://www.meetup.com/Cleanweb-London/events/92321742/">sign up now on our meetup.com page</a>!</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Upcoming: Clean Clouds]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2012/11/05/clean-clouds/"/>
+    <updated>2012-11-05T09:23:00+00:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2012/11/05/clean-clouds</id>
+    <content type="html"><![CDATA[<p>It's soon time for Cleanweb London's monthly meeting, and this month we're trying something a little different. After the success of our <a href="/ignite.html">Ignite Cleanweb</a> event in September, we've decided to try putting on more talks.</p>
+
+<p>So, we're excited to announce our first talk night on 19th November, 7pm at the <a href="http://theodi.org/">Open Data Institute</a>. We've got three great speakers lined up who are going to talk about cloud computing and its environmental impact:</p>
+
+<ul>
+<li><strong>Francine Bennett, <a href="http://mastodonc.com">Mastodon C</a></strong>: Reducing the environmental impact of big data.</li>
+<li><strong>Nigel Stevens, <a href="infinitysdc.net">Infinity SDC</a></strong>: Creating environmentally-friendly datacentres.</li>
+<li><strong>Andy Piper, <a href="https://www.vmware.com/uk/">VMware</a></strong>: Cloud Foundry, the open source cloud computing platform</li>
+</ul>
+
+
+<p>Talks will be finished by 9, so we'll be heading to a nearby pub for a drink and a chat afterwards.</p>
+
+<p>Places are limited, so <a href="http://www.meetup.com/Cleanweb-London/events/83832832/">sign up now</a> to avoid disappointment!</p>
+]]></content>
+  </entry>
+  
+</feed>

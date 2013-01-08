@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: cleanweb | Cleanweb UK]]></title>
+  <link href="http://www.cleanweb.org.uk/blog/categories/cleanweb/atom.xml" rel="self"/>
+  <link href="http://www.cleanweb.org.uk/"/>
+  <updated>2013-01-08T00:21:53+00:00</updated>
+  <id>http://www.cleanweb.org.uk/</id>
+  <author>
+    <name><![CDATA[Cleanweb UK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[How midata will fuel UK Cleanweb Innovation]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
+    <updated>2012-12-31T13:02:00+00:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
+    <content type="html"><![CDATA[<p>We've mentioned before that we need to <a href="/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">experiment like crazy</a> to find solutions to to the planet scale problems we face as environmentally aware builders of the web. Midata is a scheme that could greatly ease the complexity of building services to help people live greener, more secure lives. After building a cleanweb app based around midata, then going to number 10 to talk with the policy wonks behind the scheme, here's what you need to know.</p>
+
+<h1>What is midata?</h1>
+
+<div style="float: right; margin: 10 15"><img src="http://www.cleanweb.org.uk/images/midata.png" alt="midata logo"></div>
+
+
+<p>After a long period of gestation, 2013 should be the year that the government’s midata vision becomes reality. Midata is an initiative by the Department of Business, Innovation and Skills (BIS) to allow consumers access to the personal data that companies store about them in an electronic format. This personal data will include <strong>energy bills and usage data that the energy companies store</strong>, as well as financial information stored by banks and transactional data stored by retailers. The scheme will also allow consumers to <strong>share their information</strong> with compatible applications and websites.</p>
+
+<h1>What are the benefits for consumers?</h1>
+
+<p>For data geeks like us, easy access to our data in itself is a big win, but what are the benefits to the average consumer? Midata should make a whole host of services that up to now have been fairly niche more popular as they will be <strong>an order of magnitude easier to use</strong>. Many energy related services require consumers to input substantial amounts of information about their house and energy bills. This process is too much hassle for most people and is also error prone.</p>
+
+<p>Midata will make this a relatively seamless process and make the results more accurate by retrieving the data directly from the energy companies APIs.  So instead of a consumer having to type in lots of information from their energy bills into a third party application or website, the consumer will be able to go to their energy supplier’s website and grant access to their energy bills and meter readings. A third party application or website will then be able to programmatically retrieve the relevant information from the energy company’s API.  Midata will enforce common data formats and standards ensuring that the process will work in the same consistent way regardless of which UK energy supplier the consumer uses.</p>
+
+<h1>How might services we know work differently with midata?</h1>
+
+<ul>
+<li>Energy saving recommendations based on your personal energy usage. Website such as the <a href="http://www.energysavingtrust.org.uk/">Energy Saving Trust</a> offers this but it requires a lot of user input.</li>
+<li>Collaborative and community applications that allow a group of people to compete with and help each other reduce their usage (such as <a href="http://opower.com/">Opower</a>)</li>
+<li>Energy switching websites will be easier to use and more accurate</li>
+<li>Website which produce estimates of the potential savings solar panels or new boilers make will be able to generate more accurate quotes</li>
+<li>Benchmarking application will be able to monitor and report on the effectiveness of energy saving measures</li>
+<li>An array of applications and websites delivering the real time information provide by the upcoming wave of smart meters</li>
+<li>midata is about more than just energy! (see below for non energy examples)</li>
+</ul>
+
+
+<h1>The midata hackathon and emPowerMi</h1>
+
+<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Green button logo"></div>
+
+
+<p>In November, we attended the <a href="http://www.theodi.org/events/midata-hackathon-2012">midata hackathon</a> at the <a href="http://www.theodi.org/">Open Data Institute</a>. We helped develop an example website called <a href="http://empowermi.cleanweb.org.uk/">emPowerMi</a> to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available.</p>
+
+<p>There are already several websites that do similar things. However by accessing the consumer’s data directly we are able to provide instant recommendations and be more accurate.</p>
+
+<h1>Green Button</h1>
+
+<div style="margin: 0px 25px; float: right"><img src="http://www.cleanweb.org.uk/images/greenbutton.png" alt="Green button logo"></div>
+
+
+<p>In September 2011 a similar initiative to midata was launched in the USA. Called <a href="http://www.greenbuttondata.org/">Green Button</a>, it has led to an explosion of new companies in the cleanweb space alongside widespread adoption by the energy companies. Hopefully with midata we can expect to see something similar happening in the UK.</p>
+
+<h1>Midata’s wider remit</h1>
+
+<p>The scope of data midata covers is much wider than just energy data, encompassing current and saving account transaction, credit cards, purchases and even travel history. At the midata hackathon we brainstormed some other potentially interesting cleanweb apps including:</p>
+
+<ul>
+<li>Analysing your travel history and suggesting greener alternatives</li>
+<li>Looking at your purchases and suggesting similar products that have a lower environmental impact (less fuel miles for example)</li>
+<li>Comparing the returns on your savings accounts with the potential returns from Solar panels</li>
+</ul>
+
+
+<h1>Simple for developers and safe for consumers</h1>
+
+<p>One of the biggest challenge in making midata a success will be balancing consumer’s privacy concerns while at the same time making it easy for developers to build applications and websites to access their data.</p>
+
+<p>Hopefully the security restrictions on developers will also not be too onerous so that the barriers to entry can be kept low and innovation can flourish. Oauth seems like the obvious way to handle authentication, being familiar to both developers and consumers.</p>
+
+<p>Taking on so many verticals (energy, banking, retail) at once will also be a challenge. Hopefully the standards for each vertical can be incrementally delivered to reduce risk and ensure that successful and useful uses of midata can be developed and demonstrated to the public.</p>
+
+<h1>An exciting and important opportunity</h1>
+
+<p>Midata should spur on lots of cleanweb innovation in the UK in 2013. By allowing consumers to share their data a whole host of useful websites and applications can be built and become popular. In turn this will help consumers reduce their energy usage and carbon emissions.</p>
+
+<p>If you are developing online consumer products a whole range of ideas that have up to now not being practical due to consumer data being inaccessible will become possible. You can find out more about midata on the <a href="https://www.gov.uk/search?q=midata">gov.uk website</a> which has a <a href="https://www.gov.uk/government/publications/midata-company-briefing-pack">briefing pack</a> and an <a href="https://www.gov.uk/government/publications/example-applications-of-the-midata-programme">overview of some potential applications</a>. A great way to get some early first hand experience is to attend a midata hackathon. Their should be more midata hackathons taking place in 2013. Follow <a href="https://twitter.com/intent/follow?screen_name=cleanwebuk">@cleanwebuk on twitter</a> or <a href="https://groups.google.com/d/forum/cleanweb-uk">join our mailing list</a> and we will keep you posted.</p>
+]]></content>
+  </entry>
+  
+</feed>

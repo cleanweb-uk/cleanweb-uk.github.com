@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: awards | Cleanweb UK]]></title>
+  <link href="http://www.cleanweb.org.uk/blog/categories/awards/atom.xml" rel="self"/>
+  <link href="http://www.cleanweb.org.uk/"/>
+  <updated>2013-01-08T00:21:53+00:00</updated>
+  <id>http://www.cleanweb.org.uk/</id>
+  <author>
+    <name><![CDATA[Cleanweb UK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Nominations now open for 2012 Cleanweb Awards]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards/"/>
+    <updated>2012-11-02T12:50:00+00:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards</id>
+    <content type="html"><![CDATA[<p>On 17th December, we'll be holding our first <a href='http://www.meetup.com/Cleanweb-London/events/83832442/'>Cleanweb Awards</a> ceremony at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in Camden. It'll be a fun evening celebrating all the achievments of the cleanweb community, and giving out a few awards as well.</p>
+
+<p>As it's community-driven, we want <strong>your</strong> nominations for the awards! Just fill in the form below to let us know who you think should be in the running.</p>
+
+<p>There are six different categories:</p>
+
+<dl>
+  <dt>Overall Impact</dt>
+  <dd>Which project, individual or business has made the biggest impact through online sustainability this year?</dd>
+  <dt>Business</dt>
+  <dd>Which is the most exciting cleanweb business in the UK right now?</dd>
+  <dt>Open Source</dt>
+  <dd>What's the best open source project working on cleanweb ideas?</dd>
+  <dt>Open Data</dt>
+  <dd>Who's making the world more sustainable with open data?</dd>
+  <dt>Communications</dt>
+  <dd>Data journalism, science communications, PR - who's getting the message out to a wider audience?</dd>
+  <dt>Dirtyweb</dt>
+  <dd>Wilfully ignoring the future? Pretending to be clean while not really bothering? Which organisation do you want to name and shame?</dd>
+</dl>
+
+
+<p>Nominations close at midnight on November 23rd 2012.</p>
+
+<iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dGJwZy1GMlNlbUlibk5aR2xKZ3NROVE6MQ" width="610" height="750" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+]]></content>
+  </entry>
+  
+</feed>
