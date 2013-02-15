@@ -48,7 +48,7 @@ We also ask speakers to share their slides online afterwards where possible - we
 
 ## Diversity 
 
-We're actively seeking to increase the diversity of our attendees, speakers, and sponsors through our calls for proposals, and through dialogue with the larger communities our members make up.
+Inspired somewhat by the [O'reilly conference diversity page][4], we're actively seeking to increase the diversity of our attendees, speakers, and sponsors through our calls for proposals, and through dialogue with the larger communities our members make up.
 
 That said, we'd appreciate your help in this process, and here are a few ways you can do so:
 
@@ -66,3 +66,4 @@ Just send an email to info@cleanweb.org.uk, and you'll hear back from either Jam
 [1]: http://www.youtube.com/user/CleanwebUK
 [2]: http://www.slideshare.net/blake/why-cleanweb-will-beat-cleantech
 [3]: http://speakerdeck.com
+[4]: http://oreilly.com/conferences/diversity.html
