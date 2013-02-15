@@ -18,7 +18,7 @@ These might cover websites to help people network around local food, building en
 This reality is much richer than this, but it can be helpful to think of the cleanweb meetup audiences as from two main camps:
 
 1. People who make a living designing systems or content for the web
-This either developers, designers, communications professionals). Usually they have either an interest or previous background in sustainability, and want to see how to apply the principles in their day to day work.
+(i.e developers, designers, communications professionals and so on). Usually they have either an interest or previous background in sustainability, and want to see how to apply the principles in their day to day work.
 
 2. People with deep domain expertise in sustainablity, with interested in using the web to apply their expertise at a scale beyond their current practice.
 
