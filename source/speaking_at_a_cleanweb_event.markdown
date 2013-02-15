@@ -15,12 +15,12 @@ These might cover websites to help people network around local food, building en
 
 ## The audience
 
-This reality is much richer than this, but it can be helpful to think of the cleanweb meetup audiences as from two main camps::
+This reality is much richer than this, but it can be helpful to think of the cleanweb meetup audiences as from two main camps:
 
-1. people who make a living designing systems or content for the web
-This either developers, designers, communications professionals). Usually they have either an interest or previous background sustainability, and want to see how to apply the principles in their day to day.
+1. People who make a living designing systems or content for the web
+This either developers, designers, communications professionals). Usually they have either an interest or previous background in sustainability, and want to see how to apply the principles in their day to day work.
 
-2. people with deep domain expertise in sustainablity, with interested in using the web to apply their expertise at a scale beyond their current practice.
+2. People with deep domain expertise in sustainablity, with interested in using the web to apply their expertise at a scale beyond their current practice.
 
 There is a fair degree of overlap between these two camps, and many members are domain experts with a long history of working on the web.
 
@@ -38,7 +38,7 @@ If you don't think you have a full 15 minute talk ready, another option would be
 
 The focus of these is to encourage new speakers, or to let people try new ideas in front of a friendly audience before developing them further.
 
-We tend to run 2-3 of these in place of a 15 longer talk, depending on the theme of the event.
+We tend to run 2-3 of these in place of a longer 15 minutes talk, depending on the theme of the event.
 
 ## Sharing the talks
 
