@@ -10,7 +10,7 @@ After many of you braved ice and snow our last events selling out our last venue
 
 ### When and where
 
-The second cleanweb UK meetup of 2013 is taking place on __25th Feb__, at Forward Technology's lovely event space.
+The second cleanweb UK meetup of 2013 is taking place on __25th Feb__, at [Forward Technology's lovely event space][forward].
 
 After leading with a talk about Building Sustainable Cities from Honest Buildings, we're opening up the floor to the community, for a series of lighting talks.
 
@@ -26,10 +26,29 @@ Also, because Forward are such wonderful, wonderful people, not only are they op
 
 ### Programme:
 
-* 7pm - 7:25 __Nick Katz, Honest Buildings__ Building Sustainable Cities from Honest Buildings
+* 7pm - 7:25 __[Nick Katz, Honest Buildings][1]__ Building Sustainable Cities from Honest Buildings
 * 7:30 - 7:45 __Break:__ Refreshments, chit chat, networking etc.
 * 7:45 - 8:30 __Lightning talks:__ bite size talks and presos from the cleanweb community
-* 8:30 - 9:15 __Break to chat and mingle.__
-* 9:15 - later: __Onwards to the Brewdog!__
+  * __[Lily Ash Sakula, Bethnal Green Ventures][2]__ - Why you should quit your job and apply to work on your project at BGV.
+  * __[Robin Houston, Kiln.it][3]__ - Opening up the Carbon Map
+  * __[Jamie Andrews, Loco2][4]__ - Making trains easier than planes.
+  * __[Jason Neylon, Brixton Energy community solar project][5]__ - Updates from ICT4S
+* 8:30 later: __Onwards to the Brewdog!__
+
+### RVSP
+
+Fancy coming along? 
+
+[Just RVSP on our meetup group](http://www.meetup.com/Cleanweb-London/events/94931402), so we know how much food to order.
+
+If you've never been to forward before, the closest tube station is Mornington Green (click the map below to see further directions).
+
+<a href="http://www.forwardtechnology.co.uk/venue"><img src="http://maps.googleapis.com/maps/api/staticmap?center=51.53894,-0.139800&markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&sensor=false&zoom=14&size=300x200&maptype=roadmap"/></a>
 
 
+[1]: https://www.honestbuildings.com/site/team
+[2]: http://bethnalgreenventures.com
+[3]: http://kiln.it
+[4]: http://loco2.com
+[5]: https://brixtonenergy.co.uk/author/jason
+[forward]: http://www.forwardtechnology.co.uk/venue
