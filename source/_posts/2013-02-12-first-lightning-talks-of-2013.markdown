@@ -32,7 +32,7 @@ Also, because Forward are such wonderful, wonderful people, not only are they op
   * __[Lily Ash Sakula, Bethnal Green Ventures][2]__ - Why you should quit your job and apply to work on your project at BGV.
   * __[Robin Houston, Kiln.it][3]__ - Opening up the Carbon Map
   * __[Jamie Andrews, Loco2][4]__ - Making trains easier than planes.
-  * __[Jason Neylon, Brixton Energy community solar project][5]__ - Updates from ICT4S
+  * __[Jason Neylon, uSwitch.com][5]__ - The future is electric: ICT4S
 * 8:30 later: __Onwards to the Brewdog!__
 
 ### RVSP
@@ -50,5 +50,5 @@ If you've never been to forward before, the closest tube station is Mornington G
 [2]: http://bethnalgreenventures.com
 [3]: http://kiln.it
 [4]: http://loco2.com
-[5]: https://brixtonenergy.co.uk/author/jason
+[5]: http://www.uswitch.com
 [forward]: http://www.forwardtechnology.co.uk/venue
