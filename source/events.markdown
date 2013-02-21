@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "events"
+title: "Events"
 comments: false
 sharing: true
 footer: true
@@ -27,7 +27,8 @@ Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) t
 
 Upcoming:
 
-* [Off The Rails](https://offtherails.eventbrite.co.uk/), Oct 13, London
+* [Urban Prototyping Hackathon](http://london.urbanprototyping.org/home/events/hackathon-april-19th-21st/) 19th-21st April 2013, London
+
 
 Ongoing series:
 

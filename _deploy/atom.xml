@@ -4,7 +4,7 @@
   <title><![CDATA[Cleanweb UK]]></title>
   <link href="http://www.cleanweb.org.uk/atom.xml" rel="self"/>
   <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-01-08T00:21:53+00:00</updated>
+  <updated>2013-02-20T20:03:06+00:00</updated>
   <id>http://www.cleanweb.org.uk/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
@@ -12,6 +12,59 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The first lightning talks night of 2013]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2013/02/12/first-lightning-talks-of-2013/"/>
+    <updated>2013-02-12T17:39:00+00:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2013/02/12/first-lightning-talks-of-2013</id>
+    <content type="html"><![CDATA[<p>After many of you braved ice and snow our last events selling out our last venue, we&#8217;ve defintely got a treat for you this month.</p>
+
+<h3>When and where</h3>
+
+<p>The second cleanweb UK meetup of 2013 is taking place on <strong>25th Feb</strong>, at <a href="http://www.forwardtechnology.co.uk/venue">Forward Technology&#8217;s lovely event space</a>.</p>
+
+<p>After leading with a talk about Building Sustainable Cities from Honest Buildings, we&#8217;re opening up the floor to the community, for a series of lighting talks.</p>
+
+<h3>New to lightning talks?</h3>
+
+<p>For those new to the format, lightning talks are simply short talks, designed for ease of participation.</p>
+
+<p>If you&#8217;re working on an interesting project, or found something cleanwebby and worth sharing, and you can fit into 5 minutes, then here&#8217;s your chance to share it with a community of liked minded people.</p>
+
+<h4>Extra perks this month</h4>
+
+<p>Also, because Forward are such wonderful, wonderful people, not only are they opening up their bar to us, and providing the pizza - all gratis, but they&#8217;ll also be helping us livestream the talks, and record them to put up here. Huzzah!</p>
+
+<h3>Programme:</h3>
+
+<ul>
+<li>7pm - 7:25 <strong><a href="https://www.honestbuildings.com/site/team">Nick Katz, Honest Buildings</a></strong> Building Sustainable Cities from Honest Buildings</li>
+<li>7:30 - 7:45 <strong>Break:</strong> Refreshments, chit chat, networking etc.</li>
+<li>7:45 - 8:30 <strong>Lightning talks:</strong> bite size talks and presos from the cleanweb community
+
+<ul>
+<li><strong><a href="http://bethnalgreenventures.com">Lily Ash Sakula, Bethnal Green Ventures</a></strong> - Why you should quit your job and apply to work on your project at BGV.</li>
+<li><strong><a href="http://kiln.it">Robin Houston, Kiln.it</a></strong> - Opening up the Carbon Map</li>
+<li><strong><a href="http://loco2.com">Jamie Andrews, Loco2</a></strong> - Making trains easier than planes.</li>
+<li><strong><a href="http://www.uswitch.com">Jason Neylon, uSwitch.com</a></strong> - The future is electric: ICT4S</li>
+</ul>
+</li>
+<li>8:30 later: <strong>Onwards to the Brewdog!</strong></li>
+</ul>
+
+
+<h3>RVSP</h3>
+
+<p>Fancy coming along?</p>
+
+<p><a href="http://www.meetup.com/Cleanweb-London/events/94931402">Just RVSP on our meetup group</a>, so we know how much food to order.</p>
+
+<p>If you&#8217;ve never been to forward before, the closest tube station is Mornington Green (click the map below to see further directions).</p>
+
+<p><a href="http://www.forwardtechnology.co.uk/venue"><img src="http://maps.googleapis.com/maps/api/staticmap?center=51.53894,-0.139800&markers=color:red%7Ccolor:red%7Clabel:F%7C51.53794,-0.136700&sensor=false&zoom=14&size=300x200&maptype=roadmap"/></a></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Open Data and the Environment]]></title>
