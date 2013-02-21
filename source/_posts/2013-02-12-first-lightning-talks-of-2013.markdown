@@ -39,7 +39,7 @@ Also, because Forward are such wonderful, wonderful people, not only are they op
 
 Fancy coming along? 
 
-<a href="http://www.meetup.com/Cleanweb-London/events/94931402/" data-event="94931402" class="mu-rsvp-btn">RSVP</a> - so we know how much food to order.
+[Just RVSP on our meetup group](http://www.meetup.com/Cleanweb-London/events/94931402), so we know how much food to order.
 
 If you've never been to forward before, the closest tube station is Mornington Green (click the map below to see further directions).
 
