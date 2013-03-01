@@ -37,7 +37,7 @@ How might services we know work differently with midata?
 The midata hackathon and emPowerMi
 ==================================
 
-<div style="margin: 10px 15px; float: left"><img src="/images/midatahackthon.jpg" alt="Green button logo"></div>
+<div style="margin: 10px 15px; float: left"><img src="/images/midatahackthon.jpg" alt="Midata hackathon"></div>
 
 In November, we attended the [midata hackathon](http://www.theodi.org/events/midata-hackathon-2012) at the [Open Data Institute](http://www.theodi.org/). We helped develop an example website called [emPowerMi](http://empowermi.cleanweb.org.uk/) to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available. 
 
