@@ -53,7 +53,7 @@ So how can we tackle these infernal rebound effects? What does the ICT for susta
 
 > "Techno-fixes" *alone* are unlikely to reduce our impact. 
 
-Visions such as that of the GESI Smarter 2020 report - which do not consider rebound effects - have a useful political role to play in detailing what could be possible, as well as creating a program of priorities for ICT4S deployment. However, without political and economic incentives towards limiting overall resource use, the benefits could be purely economic, losing sight of the environmental challenge. So what forms could these incentives take? That's for another blog post, but there are suggestions in this recent [European Commission report](http://ec.europa.eu/environment/eussd/pdf/rebound_effect_report.pdf), along with lots more about on that perfidious rebound effect.
+Visions such as that of the GESI Smarter 2020 report - which do not consider rebound effects - have a useful political role to play in detailing what could be possible, as well as creating a program of priorities for ICT4S deployment. However, without political and economic incentives towards limiting overall resource use, the environmental benefits may be smaller than we hope, or we may only achieve short-term economic benefits. So what forms could these incentives take? That's for another blog post, but there are suggestions in this recent [European Commission report](http://ec.europa.eu/environment/eussd/pdf/rebound_effect_report.pdf), along with lots more about on that perfidious rebound effect.
 
 *You can watch videos of the conference online [here](http://www.multimedia.ethz.ch/conferences/2013/ict4s/20130214_e7) or download the [proceedings](http://dx.doi.org/10.3929/ethz-a-007337628).*
 
