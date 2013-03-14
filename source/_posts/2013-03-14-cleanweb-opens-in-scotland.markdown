@@ -15,7 +15,7 @@ In terms of clean-tech, Scotland is a busy place, especially owing to the rich p
 
 Politically, energy and environment are devolved issues. This means policies are legislated from Holyrood rather than Westminster. Of note, is the 2009 [Climate Change Act](http://www.legislation.gov.uk/asp/2009/12/contents) and the [Zero Waste Plan](http://www.scotland.gov.uk/Topics/Environment/waste-and-pollution/Waste-1/wastestrategy). The Climate Change Act has set a target of reducing greenhouse gas emissions by 80% by 2050, with an interim reduction target of 42% for 2020. The Zero Waste plan set a target of 70% recycling and composting for all waste and a maximum of 5% sent to landfill, both by 2025.
 
-Institutions aside, there are great examples of grass-roots initiatives driving change. Most inspiring, is the story of the Isle of Eigg. After a community land buy-out, the islanders got to setting up their own electricity grid which is 90% powered from renewable sources. 
+Institutions aside, there are great examples of grass-roots initiatives driving change. Most inspiring, is the story of [the Isle of Eigg](http://en.wikipedia.org/wiki/Eigg#Isle_of_Eigg_Heritage_Trust). After a community land buy-out, the islanders got to setting up their own electricity grid which is 90% powered from renewable sources. 
 
 Like anywhere else in the world, there are still significant barriers to achieving a sustainable society. In the past 10 years, investors in the clean-tech space have become more risk averse and the economic crash hasn't helped either. It's also becoming clearer the extent to which systematic and behavioural change are also required. 
 
