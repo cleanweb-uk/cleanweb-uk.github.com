@@ -4,7 +4,7 @@
   <title><![CDATA[Category: midata | Cleanweb UK]]></title>
   <link href="http://www.cleanweb.org.uk/blog/categories/midata/atom.xml" rel="self"/>
   <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-02-21T16:51:06+00:00</updated>
+  <updated>2013-03-14T17:59:37+00:00</updated>
   <id>http://www.cleanweb.org.uk/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
@@ -48,7 +48,7 @@
 
 <h1>The midata hackathon and emPowerMi</h1>
 
-<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Green button logo"></div>
+<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Midata hackathon"></div>
 
 
 <p>In November, we attended the <a href="http://www.theodi.org/events/midata-hackathon-2012">midata hackathon</a> at the <a href="http://www.theodi.org/">Open Data Institute</a>. We helped develop an example website called <a href="http://empowermi.cleanweb.org.uk/">emPowerMi</a> to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available.</p>
