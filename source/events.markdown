@@ -7,17 +7,15 @@ footer: true
 ---
 
 
-Cleanweb London
+Meetups
 -------
 
-We have a very active London meetup group; it's probably the biggest Cleanweb group in the world, with nearly 200 members. We meet regularly for pub discussions and slightly more formal talk nights. We recently ran [Ignite Cleanweb](/ignite.html), a massively successful lightning talk evening. If you want a flavour, go watch the videos.
+We have two active meetup groups, together forming the biggest Cleanweb group in the world, with over 330 members. We meet regularly for pub discussions and slightly more formal talk nights.
 
-* [Join Cleanweb London](http://www.meetup.com/Cleanweb-London)
+* [Cleanweb London](http://www.meetup.com/Cleanweb-London)
+* [Cleanweb Scotland](http://www.meetup.com/Cleanweb-Scotland)
 
-Other Meetups
--------------
-
-* [Cleanweb Brighton](http://www.meetup.com/Cleanweb-Brighton) (currently bootstrapping, join up!)
+We also have a small community starting up in [Brighton](http://www.meetup.com/Cleanweb-Brighton). If you'd like to start a group in your area, please [get in touch](mailto:info@cleanweb.org.uk) and we'll help any way we can.
 
 
 Hackdays
