@@ -1,0 +1,339 @@
+
+<!DOCTYPE html>
+<!--[if IEMobile 7 ]><html class="no-js iem7"><![endif]-->
+<!--[if lt IE 9]><html class="no-js lte-ie8"><![endif]-->
+<!--[if (gt IE 8)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html class="no-js" lang="en"><!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <title>The Promise and the Perils of Efficiency - Cleanweb UK</title>
+  <meta name="author" content="Cleanweb UK">
+
+  
+  <meta name="description" content="Two Cleanweb UK team members, Jack Townsend and Jason Neylon, attended the First International Conference on ICT for Sustainability (ICT4S 2013) in &hellip;">
+  
+
+  <!-- http://t.co/dKP3o1e -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <link rel="canonical" href="http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency">
+  <link href="/favicon.png" rel="icon">
+  <link href="/stylesheets/bootstrap/bootstrap.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/bootstrap/responsive.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/syntax/syntax.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/main.css" media="screen, projection" rel="stylesheet" type="text/css">
+  <style type="text/css">
+    body {
+      padding-bottom: 40px;
+    }
+    h1 {
+      margin-bottom: 15px;
+    }
+    img {
+      max-width: 100%;
+    }
+    .sharing, .meta, .pager {
+      margin: 20px 0px 20px 0px;
+    }
+    .page-footer p {
+      text-align: center;
+    }
+  </style>
+  <script src="/javascripts/libs/jquery.js"></script>
+  <script src="/javascripts/libs/modernizr-2.0.js"></script>
+  <script src="/javascripts/libs/bootstrap.js"></script>
+  <script src="/javascripts/octopress.js" type="text/javascript"></script>
+  <link href="/atom.xml" rel="alternate" title="Cleanweb UK" type="application/atom+xml">
+  
+  
+  <script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-36044867-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+  </script>
+
+
+</head>
+
+<body   >
+  <nav role="navigation"><div class="navbar">
+  <div class="navbar-inner">
+    <div class="container">
+      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </a>
+
+      <a class="brand" href="/">Cleanweb UK</a>
+
+      <div class="nav-collapse">
+        <ul class="nav">
+  <li><a href="/">Home</a></li>
+  <li><a href="/manifesto.html">Manifesto</a></li>
+  <!--<li><a href="/podcast.html">Podcast</a></li>-->
+  <li><a href="/ignite.html">Ignite</a></li>
+  <li><a href="/events.html">Events</a></li>
+  <li><a href="/get_involved.html">Get Involved</a></li>
+  <li><a href="/publications/index.html">Publications</a></li>
+  <li><a href="/about.html">About</a></li>
+</ul>
+
+<ul class="nav pull-right" data-subscription="rss">
+  <li><a href="/atom.xml" rel="subscribe-rss" title="subscribe via Atom"><img src='/images/rss.png' width='16px' height='16px' alt='Subscribe'/></a></li>
+  
+</ul>
+
+<ul class="nav pull-right">
+  <li><a href="http://cleanweb.co">Cleanweb Global</a></li>
+</ul>
+
+
+        
+      </div>
+    </div>
+  </div>
+</div>
+</nav>
+  <div class="container">
+    <div class="row-fluid">
+      
+<article class="hentry span9" role="article">
+
+  
+  <header class="page-header">
+    
+      <h1 class="entry-title">The Promise and the Perils of Efficiency</h1>
+    
+    
+      <p class="meta">
+        
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Jack Townsend</span></span>
+<br/>
+        
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-28T09:03:00+00:00" pubdate data-updated="true">Feb 28<span>th</span>, 2013</time>
+        
+      </p>
+    
+  </header>
+
+
+<div class="entry-content"><div style="margin: 0px 15px; float: right"><img src="/images/posts/ICT4S-and-zurich-small.png" alt="ICT4S Keynote"></div>
+
+
+<p><em>Two Cleanweb UK team members, <a href="https://twitter.com/JackTownsend_">Jack Townsend</a> and <a href="https://twitter.com/jasonneylon">Jason Neylon</a>, attended the <a href="http://www.ict4s.org/">First International Conference on ICT for Sustainability</a> (ICT4S 2013) in Zurich recently. Here is the first in a series of posts about the big themes presented at the conference.</em></p>
+
+<p>Efficiency was the dominant theme of ICT4S2013. In his opening keynote, US efficiency guru <a href="http://aceee.org/node/97">John Laitner</a> hailed a <em>third industrial revolution</em>, as the emergence of interactive communications and distributed clean energy bring unprecedented <em>intelligent efficiency</em>. The conference brought together an impressive community of academics and industry player working towards this goal of make everything more efficient with ICTs. So with all this good work, we can expect some major reductions of our impact on the environment, right? Well, there&#8217;s a catch.</p>
+
+<h2>Can ICT help decouple economic growth from resource use?</h2>
+
+<div style="margin: 10px 15px; float: right"><img src="/images/posts/ict4s-keynote.jpeg" alt="ICT4S Keynote"></div>
+
+
+<p>Firstly we were asked by <a href="https://twitter.com/jcmankoff">Jennifer Mankoff</a>: how big are the reductions we can really expect, and are they enough? Alice Valvodova offered an optimistic assessment in the <a href="https://twitter.com/GeSIConnect">GESI</a> <a href="http://gesi.org/SMARTer2020">Smarter 2020 report</a>, with a 16% reduction possible by 2020. This would counter expected rises in global energy use, but wouldn&#8217;t make much of a dent in existing emissions. Historically, efficiency gains have apparently delivered much, but still haven&#8217;t kept up with economic growth; John Laitner asserted that something like 75% of new demand for energy-related goods had been met with efficiency gains since 1970. He sees efficiency as an economic imperative: inefficiency creates costs which constrain economic activity, whilst energy efficiency is correlated with the productivity of the economy.</p>
+
+<p>Laitner called for efficiency gains to be pushed to 1% more than the rate of economic growth. The question is: is this fast enough to go beyond promoting economic growth to begin the massive challenge of decoupling economic activity from our impact on an overstretched environment? Can the third industrial revolution be any kinder to environment than the first two?</p>
+
+<h2>Faster and faster</h2>
+
+<p>This tension between the economic and environmental benefits of efficiency leads us on to the second problem, a real humdinger: <strong>creating greater efficiency in individual processes often doesn&#8217;t lead to reductions in overall resource use</strong>, otherwise known as the <em>rebound effect</em>. In its worst guise, the <em>Jevons paradox</em>, it is found that the economic growth arising from such efficiency can massively increase overall use of the resource. Consider, for example, the great increase in demand for ICTs themselves, as Moore&#8217;s law has made them exponentially more efficient and thus cheaper.</p>
+
+<div style="margin: 10px 15px; float: right"><img src="/images/posts/spreng-triangle.png" alt="Spreng's Triangle"></div>
+
+
+<p>These tensions are neatly mapped out on the <em>Spreng Triangle</em>, which places industries and process according to their relative use of three fundamental ingredients: energy (a proxy for environmental impact), information (a product of ICT), and time (a proxy for money). Daniel Spreng explained how research from the 80s into implementing ICTs in the textile industry had shown that they brought greater efficiency of energy use, but that they also allowed processes to be run faster, increasing energy use, and - given the choice in a world of cheap energy - it makes economic sense to use the ICTs to speed everything up and use more energy than maintain the original speed and save energy.</p>
+
+<p>This led to some philosophical banter around the &#8220;hamster wheel&#8221; of modernity in which we run and run, faster and faster. So, are we mice or men? (The prospect was raised of escaping the &#8220;rat race&#8221; for a future slow <a href="http://www.greenhackathon.com">Green Hackathon</a> in a Swedish forest.) Moreover, there are also social impacts of this speeding up via efficiency: Spreng highlights that ICTs</p>
+
+<blockquote><p>&#8220;although very suitable to pushing economic growth, often contributes to growth by saving labor.&#8221;</p></blockquote>
+
+<h2>A wicked problem</h2>
+
+<p>I had come to the conference partly to learn more about this conundrum of rebound, and wasn&#8217;t disappointed. The challenges of the rebound effect emerge from the difficulty of realising and even measuring change in a complex, non-linear and socio-technical world.</p>
+
+<blockquote><p>If we create a particular piece of software or hardware, what sort of effects can we expect and how will we know if they are good or bad for the environment?</p></blockquote>
+
+<div style="margin: 10px 15px; float: right"><img src="/images/posts/wicked-things.png" alt="Wicked things drawing"></div>
+
+
+<p>In his keynote, conference organizer Lorenz Hilty described his model of the impact of ICT on sustainability that separates first, second and third order effects. Whilst first order &#8220;direct&#8221; effects of the creation, use and disposal of the equipment can be reasonably well understood, things become more challenging when we start to analyse the second order effects of how we use it, and can become so complex as to be beyond practical measurement when we consider the myriad systematic third order effects, as complex human behaviours, economies and politics adapt to the presence of the technology. Thus introducing a very high power videoconferencing system may increase energy use in server farms (largely measurable first order effects), allow substitution of business travel, saving energy (second order effects), but by allowing people to develop longer distance relationships it could eventually lead to more long plane trips (third order effects, much more challenging to measure). And what further subtle implications for resource use could videoconferencing, have as the pattern of human relationships change? If we try and assess this system where do we set the boundaries of our model? Everything outside will be unmeasured and thus ignored.</p>
+
+<p>Jennifer Mankoff called on the community to</p>
+
+<blockquote><p>&#8220;define the metrics for success and the breadth of topics that fit within the goal of reducing energy use and, more generally, increasing worldwide sustainability;&#8221;</p></blockquote>
+
+<p>to look beyond just the individual and their own device to the big wide world. But of course that world is a big complex place; we begin to see why sustainability has been called a super-wicked problem, where many factors limit the success of attempts to deal with it.</p>
+
+<h2>So what can we do about it?</h2>
+
+<p>So how can we tackle these infernal rebound effects? What does the ICT for sustainability community require to fulfil the exciting potential to mitigate our environmental impact? This pervading question remained at the margins of the conference, as it raises many challenges from economics and politics rather than classic IT. This is understandable, but it seems that the ICT4S community has an important role to play in feeding into conversations with policy makers and social scientists about the legal and economic framework needed to drive climate-friendly innovation, and reductions in overall resource use.</p>
+
+<blockquote><p>&#8220;Techno-fixes&#8221; <em>alone</em> are unlikely to reduce our impact.</p></blockquote>
+
+<p>Visions such as that of the GESI Smarter 2020 report - which do not consider rebound effects - have a useful political role to play in detailing what could be possible, as well as creating a program of priorities for ICT4S deployment. However, without political and economic incentives towards limiting overall resource use, the environmental benefits of efficency may be considerably smaller than we hope. So what forms could these incentives take? That&#8217;s for another blog post, but there are suggestions in this recent <a href="http://ec.europa.eu/environment/eussd/pdf/rebound_effect_report.pdf">European Commission report</a>, along with lots more about on that perfidious rebound effect.</p>
+
+<p><em>You can watch videos of the conference online <a href="http://www.multimedia.ethz.ch/conferences/2013/ict4s/20130214_e7">here</a> or download the <a href="http://dx.doi.org/10.3929/ethz-a-007337628">proceedings</a>.</em></p>
+
+<p><em>Interested in finding out more about this area? Why not come along to a <a href="http://www.meetup.com/Cleanweb-London/">Cleanweb London meetup</a> a friendly and varied community where each month we consider a different aspect of how the internet can advance environmental sustainability.</em></p>
+</div>
+
+
+  <footer>
+    <p class="meta">
+      
+  
+
+<span class="byline author vcard">Posted by <span class="fn">Jack Townsend</span></span>
+
+      
+
+
+
+
+
+
+
+
+  
+
+
+<time datetime="2013-02-28T09:03:00+00:00" pubdate data-updated="true">Feb 28<span>th</span>, 2013</time>
+      
+
+<span class="categories">
+  
+    <a class='category' href='/blog/categories/ict4s/'>ICT4S</a>, <a class='category' href='/blog/categories/efficiency/'>efficiency</a>, <a class='category' href='/blog/categories/energy/'>energy</a>, <a class='category' href='/blog/categories/sustainability/'>sustainability</a>
+  
+</span>
+
+
+    </p>
+    
+      <div class="sharing">
+  
+  <a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/" data-via="cleanwebuk" data-counturl="http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/" >Tweet</a>
+  
+  
+  
+</div>
+
+    
+    
+    <section>
+      <h1>Comments</h1>
+      <div id="disqus_thread" aria-live="polite"><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+    </section>
+    
+    <ul class="pager">
+      
+      <li class="previous"><a class="basic-alignment left"
+        href="/blog/2013/02/12/first-lightning-talks-of-2013/" title="Previous Post:
+        The first lightning talks night of 2013">&laquo; The first lightning talks night of 2013</a></li>
+      
+      <li><a href="/blog/archives">Blog Archives</a></li>
+      
+      <li class="next"><a class="basic-alignment right" href="/blog/2013/03/14/cleanweb-opens-in-scotland/"
+        title="Next Post: Cleanweb Opens in Scotland">Cleanweb Opens in Scotland
+        &raquo;</a></li>
+      
+    </ul>
+  </footer>
+</article>
+
+<aside class="sidebar-nav span3">
+  
+    <div class='logo'>
+  <img src='/images/tree.png'/>
+</div>
+<section class="well">
+  <ul id="tweets" class="nav">
+    <li class="nav-header">Latest Tweets</li>
+    <li class="loading">Status updating...</li>
+  </ul>
+  <script type="text/javascript">
+    $(document).ready(function(){
+      getTwitterFeed("cleanwebuk", 4, false);
+    });
+  </script>
+  <script src="/javascripts/asides/twitter.js" type="text/javascript"> </script>
+  
+    <a href="http://twitter.com/cleanwebuk" class="twitter-follow-button" data-show-count="false">Follow @cleanwebuk</a>
+  
+</section>
+
+
+  
+</aside>
+
+
+    </div>
+  </div>
+  <footer role="contentinfo" class="page-footer"><hr>
+<p>
+  <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/deed.en_US"><img alt="Creative Commons License"  style="border-width:0; vertical-align: middle;" src="http://i.creativecommons.org/l/by-sa/3.0/80x15.png" /></a> -
+  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+</p>
+
+</footer>
+  
+
+<script type="text/javascript">
+      var disqus_shortname = 'cleanwebuk';
+      
+        
+        // var disqus_developer = 1;
+        var disqus_identifier = 'http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/';
+        var disqus_url = 'http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/';
+        var disqus_script = 'embed.js';
+      
+    (function () {
+      var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+      dsq.src = 'http://' + disqus_shortname + '.disqus.com/' + disqus_script;
+      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    }());
+</script>
+
+
+
+
+
+
+
+  <script type="text/javascript">
+    (function(){
+      var twitterWidgets = document.createElement('script');
+      twitterWidgets.type = 'text/javascript';
+      twitterWidgets.async = true;
+      twitterWidgets.src = 'http://platform.twitter.com/widgets.js';
+      document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
+    })();
+  </script>
+
+
+
+
+
+</body>
+</html>
