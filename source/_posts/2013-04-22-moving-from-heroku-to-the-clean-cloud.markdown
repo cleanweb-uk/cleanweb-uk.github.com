@@ -27,7 +27,7 @@ Setting up the Virtual Machine for Rails
 
 Greenqloud has an easy to use interface. It's a few clicks to setup a new box and you get a browser based VNC client to do your initial configuration. Unlike Heroku however you need to setup the platform yourself. For something like Wordpress this is [quick and easy](http://support.greenqloud.com/entries/22163871-Getting-started-with-GreenQloud-Part-1), but for the Ruby on Rails application its a bit more involved. I spent 2 or 3 hours installing Ruby, Mongo, Redis, Nginx and configuring Unicorn and SSH. 
 
-I followed these guides setting up the server:
+I followed these guides for help setting up the server:
 
 * [How To Easily Build a Fast, Reliable Production Rails 3.2 Web Server with Ubuntu 12.10 / Nginx / Passenger](http://ghosttx.com/2013/02/fast-reliable-production-rails-3-web-server-on-ubuntu-nginx-passenger/)
 * [Setting up Unicorn with Nginx](http://sirupsen.com/setting-up-unicorn-with-nginx/)
