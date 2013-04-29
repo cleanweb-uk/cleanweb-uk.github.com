@@ -9,7 +9,7 @@ categories:
 
 We often get asked: "What is this cleanweb thing then?", and the answer is usually different depending on who you ask. If I had to summarise it myself though (which I do), it would be something like this:
 
-> Cleanweb developers use web technology to fight climate change, and build a more sustainable and resilient future.
+> Cleanweb innovators use web technology to fight climate change, and build a more sustainable and resilient future.
 
 Obviously this glosses over a great many things; just for one, climate change is simply the largest and most pressing of a number of environmental challenges, many of which cleanweb ideas could be applied to.
 
