@@ -4,7 +4,7 @@
   <title><![CDATA[Cleanweb UK]]></title>
   <link href="http://www.cleanweb.org.uk/atom.xml" rel="self"/>
   <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-03-20T21:09:20+00:00</updated>
+  <updated>2013-04-29T15:17:27+01:00</updated>
   <id>http://www.cleanweb.org.uk/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
@@ -12,6 +12,79 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The Cleanweb Story]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2013/04/29/the-cleanweb-story/"/>
+    <updated>2013-04-29T06:30:00+01:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2013/04/29/the-cleanweb-story</id>
+    <content type="html"><![CDATA[<p>We often get asked: &#8220;What is this cleanweb thing then?&#8221;, and the answer is usually different depending on who you ask. If I had to summarise it myself though (which I do), it would be something like this:</p>
+
+<blockquote><p>Cleanweb innovators use web technology to fight climate change, and build a more sustainable and resilient future.</p></blockquote>
+
+<p>Obviously this glosses over a great many things; just for one, climate change is simply the largest and most pressing of a number of environmental challenges, many of which cleanweb ideas could be applied to.</p>
+
+<p>The fundamental thinking is this though: as technologists, we have incredibly powerful tools at our disposal, and we can use them to help solve the most challenging problems of our times. By doing so, we can make the future a better, smarter, safer place to be for everyone.</p>
+
+<p>Cleanweb doesn&#8217;t imply a particular type of solution, or include political judgements on what that future should look like (though of course we all do as individuals). If a startup can cut emissions by making private aviation more efficient, that&#8217;s just as valid as another one helping build local food co-operatives.</p>
+
+<p>So what does a cleanweb future look like?</p>
+
+<p>Well, as I&#8217;ve said, the exact shape of the future is unknown; we&#8217;ll all find our way there together.</p>
+
+<p>However, I believe that web technologies will be a vital component in the inevitable transition to sustainability, and cleanweb will be right in the middle of it. Over the next few years, I hope we will see a flowering of innovation, with thousands of cleanweb projects getting off the ground, trying to make a difference.</p>
+
+<p>Most will fail, but a few will succeed, and a couple might just change the world. Wouldn&#8217;t it be cool to be one of them?</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Moving from Heroku to the clean cloud]]></title>
+    <link href="http://www.cleanweb.org.uk/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud/"/>
+    <updated>2013-04-21T16:31:00+01:00</updated>
+    <id>http://www.cleanweb.org.uk/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud</id>
+    <content type="html"><![CDATA[<p>Recently I have been building a new website for <a href="http://www.repowering.org.uk">Repowering</a> - a co-operative focused on radically increasing the number of renewable energy projects in London. Last weekend I migrated the website from <a href="http://www.heroku.com">Heroku</a> to <a href="http://www.greenqloud.com">GreenQloud</a>.</p>
+
+<h1>Whats wrong with Heroku?</h1>
+
+<p>When I started building the new Repowering website I initially hosted it on Heroku. I am a big Heroku fan. It makes it super easy to get a Ruby website on the web. However there is a downside to Heroku - it runs on top of Amazon&#8217;s EC2 cloud computing platform which means it is <strong>powered by dirty CO<sub>2</sub> spurting coal power plants</strong> (check out <a href="https://www.mastodonc.com/dashboard">MastondonC&#8217;s dashboard of cloud provider CO<sub>2</sub> emissions</a> to see for yourself). One of Repowering&#8217;s aims is to reduce carbon emissions, so having a website that produced unnecessary emissions was a big no no.</p>
+
+<h1>Moving to Greenqloud</h1>
+
+<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/greenqloud-logo-small.png" alt="Greenqloud logo"></div>
+
+
+<p>There is a greener solution - the Icelandic company Greenqloud offer cloud hosting based in Iceland. As Iceland&#8217;s electricity system runs on geothermal and hydro power the server emissions are as close to zero carbon as you can get. Cost wise it&#8217;s comparable too. While Heroku is free for a single dyno, costs escalate rapidly as you start adding workers and features such as SSL.</p>
+
+<h1>Setting up the Virtual Machine for Rails</h1>
+
+<p><img src="http://www.cleanweb.org.uk/images/posts/greenqloud-dashboard.png" alt="Greenqloud dashboard"></p>
+
+<p>Greenqloud has an easy to use interface. It&#8217;s a few clicks to setup a new box and you get a browser based VNC client to do your initial configuration. Unlike Heroku however you need to setup the platform yourself. For something like Wordpress this is <a href="http://support.greenqloud.com/entries/22163871-Getting-started-with-GreenQloud-Part-1">quick and easy</a>, but for the Ruby on Rails application its a bit more involved. I spent 2 or 3 hours installing Ruby, Mongo, Redis, Nginx and configuring Unicorn and SSH.</p>
+
+<p>I followed these guides for help setting up the server:</p>
+
+<ul>
+<li><a href="http://ghosttx.com/2013/02/fast-reliable-production-rails-3-web-server-on-ubuntu-nginx-passenger/">How To Easily Build a Fast, Reliable Production Rails 3.2 Web Server with Ubuntu 12.10 / Nginx / Passenger</a></li>
+<li><a href="http://sirupsen.com/setting-up-unicorn-with-nginx/">Setting up Unicorn with Nginx</a></li>
+<li><a href="http://greenqloud.com/quick-tips-on-security/">Quick tips on security</a></li>
+</ul>
+
+
+<p>If you are a devops wizard you could use Chef or Puppet to do automate this. The other task you need to handle yourself is backup. I knocked together a little script based on <a href="https://github.com/billturner/simple-s3-backup">this to handle backups</a>.</p>
+
+<h1>Towards a cleaner cloud</h1>
+
+<p>From a price and time perspective it hasn&#8217;t cost me much to move to a low carbon hosting platform. Its an easy way to reduce your client&#8217;s or organisation&#8217;s carbon emissions. To realise cloud computing&#8217;s green potential we need to make cloud computing low carbon by default. Here are some ways cloud infrastructure can become greener:</p>
+
+<ul>
+<li>Amazon EC2 could start running their infrastructure on low carbon electricity. Apple, Google, Microsoft and Facebook have recently started to move in this direction.</li>
+<li>Services such as Heroku could have more flexibility over where your applications run</li>
+<li>More Infrastructure as a Service (IaaS) provider need to support green cloud providers</li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Do you want Open historical weather data?]]></title>
