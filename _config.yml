@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.cleanweb.org.uk
+url: http://cleanweb-uk.github.com
 title: Cleanweb UK
 subtitle: building a movement for the sustainable web
 author: Cleanweb UK
@@ -98,3 +98,9 @@ google_analytics_tracking_id: UA-36044867-1
 
 # Facebook Like
 facebook_like: false
+
+# Add a few extras for working with Prose
+# https://github.com/prose/prose/wiki/Configuration
+prose:
+  rooturl: "source"
+  siteurl: "http://www.cleanweb.org.uk"
