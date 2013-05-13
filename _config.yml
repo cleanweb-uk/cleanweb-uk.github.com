@@ -103,4 +103,3 @@ facebook_like: false
 # https://github.com/prose/prose/wiki/Configuration
 prose:
   rooturl: "source"
-  siteurl: "http://www.cleanweb.org.uk"
