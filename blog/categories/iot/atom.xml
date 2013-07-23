@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: iot | Cleanweb UK]]></title>
+  <link href="http://cleanweb-uk.github.com/blog/categories/iot/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
+  <author>
+    <name><![CDATA[Cleanweb UK]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Cleanweb and the Internet of Things: Storified]]></title>
+    <link href="http://cleanweb-uk.github.com/blog/2013/07/23/cleanweb-and-the-internet-of-things-storified/"/>
+    <updated>2013-07-23T09:22:00+01:00</updated>
+    <id>http://cleanweb-uk.github.com/blog/2013/07/23/cleanweb-and-the-internet-of-things-storified</id>
+    <content type="html"><![CDATA[<script src="http://cleanweb-uk.github.com//storify.com/CleanwebUK/cleanweb-and-the-internet-of-things.js" type="text/javascript" language="javascript"></script>
+
+
+<p><noscript>[<a href="http://cleanweb-uk.github.com//storify.com/CleanwebUK/cleanweb-and-the-internet-of-things" target="_blank">View the story "Cleanweb and the Internet of Things" on Storify</a>]</noscript></p>
+]]></content>
+  </entry>
+  
+</feed>

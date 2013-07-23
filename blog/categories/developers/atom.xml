@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: developers | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/developers/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/developers/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mobilizing Developers to Make a Better Future]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/"/>
     <updated>2012-10-09T11:10:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future</id>
     <content type="html"><![CDATA[<p>We have <a href="http://nsidc.org/arcticseaicenews/2012/09/arctic-sea-ice-extent-settles-at-record-seasonal-minimum/">a problem</a>, and we don't yet a decent solution. As a species, we're running lemming-like off a whole bunch of cliffs, of which climate change is just the biggest and nearest. At the same time, an enormous amount of human innovation is going into <a href="http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm">making people click more ads</a>.</p>
 
 <p>There's a popular school of thought about climate change that says we don't need to worry, because humanity always innovates its way out of a crisis. If that's true, then <strong>we'd better get innovating right now</strong>, rather than waiting for others to do it, because we're <strong>in the crisis</strong>. We need to <a href="http://www.forumforthefuture.org/blog/1000-100-10-1-why-we-need-experiment-crazy">experiment like crazy</a>, to try all the things that might help. Most will fail, as startups do, but if we try enough, something will work. If we can harness the kind of crazy innovation that's created our modern web, we can do just about anything.</p>

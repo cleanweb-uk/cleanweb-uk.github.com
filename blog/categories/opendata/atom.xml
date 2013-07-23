@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: opendata | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/opendata/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/opendata/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Open Data and the Environment]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/01/07/open-data-and-the-environment/"/>
     <updated>2013-01-07T23:59:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/01/07/open-data-and-the-environment</id>
     <content type="html"><![CDATA[<p>It's the start of a new year, which can only mean one thing new meetup for the new month!</p>
 
 <p>For our first meet up of the year on <strong>Monday 21st Jan</strong>, we'll be looking into the terribly trendy world of Open data, fitting enough, at swanky offices of the <a href="http://theodi.org/">Open Data Institute</a>.</p>

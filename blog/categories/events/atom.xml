@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: events | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/events/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/events/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[Cleanweb Opens in Scotland]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/03/14/cleanweb-opens-in-scotland/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/03/14/cleanweb-opens-in-scotland/"/>
     <updated>2013-03-14T12:56:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/03/14/cleanweb-opens-in-scotland</id>
-    <content type="html"><![CDATA[<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/cca.jpg" alt="the CCA building from the outside"></div>
+    <id>http://cleanweb-uk.github.com/blog/2013/03/14/cleanweb-opens-in-scotland</id>
+    <content type="html"><![CDATA[<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/cca.jpg" alt="the CCA building from the outside"></div>
 
 
 <p><em><a href="http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">The call to action</a> for entrepreneurs and developers is being heard ever further. The 22nd March will see <a href="http://www.meetup.com/Cleanweb-Scotland/">the first Cleanweb meetup</a> in Scotland at Glasgow's CCA.</em></p>
@@ -41,14 +41,14 @@
   
   <entry>
     <title type="html"><![CDATA[How midata will fuel UK Cleanweb Innovation]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
     <updated>2012-12-31T13:02:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
     <content type="html"><![CDATA[<p>We've mentioned before that we need to <a href="/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">experiment like crazy</a> to find solutions to to the planet scale problems we face as environmentally aware builders of the web. Midata is a scheme that could greatly ease the complexity of building services to help people live greener, more secure lives. After building a cleanweb app based around midata, then going to number 10 to talk with the policy wonks behind the scheme, here's what you need to know.</p>
 
 <h1>What is midata?</h1>
 
-<div style="float: right; margin: 10 15"><img src="http://www.cleanweb.org.uk/images/midata.png" alt="midata logo"></div>
+<div style="float: right; margin: 10 15"><img src="http://cleanweb-uk.github.com/images/midata.png" alt="midata logo"></div>
 
 
 <p>After a long period of gestation, 2013 should be the year that the government’s midata vision becomes reality. Midata is an initiative by the Department of Business, Innovation and Skills (BIS) to allow consumers access to the personal data that companies store about them in an electronic format. This personal data will include <strong>energy bills and usage data that the energy companies store</strong>, as well as financial information stored by banks and transactional data stored by retailers. The scheme will also allow consumers to <strong>share their information</strong> with compatible applications and websites.</p>
@@ -74,7 +74,7 @@
 
 <h1>The midata hackathon and emPowerMi</h1>
 
-<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Midata hackathon"></div>
+<div style="margin: 10px 15px; float: left"><img src="http://cleanweb-uk.github.com/images/midatahackthon.jpg" alt="Midata hackathon"></div>
 
 
 <p>In November, we attended the <a href="http://www.theodi.org/events/midata-hackathon-2012">midata hackathon</a> at the <a href="http://www.theodi.org/">Open Data Institute</a>. We helped develop an example website called <a href="http://empowermi.cleanweb.org.uk/">emPowerMi</a> to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available.</p>
@@ -83,7 +83,7 @@
 
 <h1>Green Button</h1>
 
-<div style="margin: 0px 25px; float: right"><img src="http://www.cleanweb.org.uk/images/greenbutton.png" alt="Green button logo"></div>
+<div style="margin: 0px 25px; float: right"><img src="http://cleanweb-uk.github.com/images/greenbutton.png" alt="Green button logo"></div>
 
 
 <p>In September 2011 a similar initiative to midata was launched in the USA. Called <a href="http://www.greenbuttondata.org/">Green Button</a>, it has led to an explosion of new companies in the cleanweb space alongside widespread adoption by the energy companies. Hopefully with midata we can expect to see something similar happening in the UK.</p>
@@ -117,9 +117,9 @@
   
   <entry>
     <title type="html"><![CDATA[Because we don't want to bluescreen the planet]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/09/15/ignite-cleanweb-what-a-night/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/09/15/ignite-cleanweb-what-a-night/"/>
     <updated>2012-09-15T23:14:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/09/15/ignite-cleanweb-what-a-night</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/09/15/ignite-cleanweb-what-a-night</id>
     <content type="html"><![CDATA[<p>On Thursday 13th September, we ran our first ever Ignite Cleanweb event, at a fantastic venue  generously provided by the lovely people at <a href="http://forwardtechnology.co.uk">Forward</a>.</p>
 
 <p>And to put not too fine a point on it, it seems to have went far better than we dared hope - we wanted to showcase some of the best work happening at the intersection between sustainability and the web, and we had a clutch of speakers doing just that, showing how they were using the web to rethink mobility, mapping, and energy, food and supply chains to name a few of the talks on the night.</p>
@@ -151,12 +151,12 @@
   
   <entry>
     <title type="html"><![CDATA[Ignite Cleanweb Talk Details]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/09/05/ignite-cleanweb-talk-details/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/09/05/ignite-cleanweb-talk-details/"/>
     <updated>2012-09-05T12:05:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/09/05/ignite-cleanweb-talk-details</id>
-    <content type="html"><![CDATA[<p>Just 8 days to go until <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite Cleanweb</a> comes to London!</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/09/05/ignite-cleanweb-talk-details</id>
+    <content type="html"><![CDATA[<p>Just 8 days to go until <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite Cleanweb</a> comes to London!</p>
 
-<p>We've nearly finalised the list of talks, and have put the titles and speakers up on our <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite</a> page.</p>
+<p>We've nearly finalised the list of talks, and have put the titles and speakers up on our <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite</a> page.</p>
 
 <p>So, come along to <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> on Thursday 13th September, and learn how <a href='http://loco2.com'>Loco2</a> took on <em>the European Rail Booking Monster</em>, or maybe how to live <em>Offgrid in the City</em>. How about <em>Good Food, For Everyone, Forever</em>, courtesy of <a href='http://sustaination.co'>Sustaination</a>, or <em>how open hardware can help save energy</em> with <a href='http://openenergymonitor.org/'>OpenEnergyMonitor</a>?</p>
 
@@ -168,10 +168,10 @@
   
   <entry>
     <title type="html"><![CDATA[Register now for Ignite Cleanweb!]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/08/15/register-now-for-ignite-cleanweb/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/08/15/register-now-for-ignite-cleanweb/"/>
     <updated>2012-08-15T22:27:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/08/15/register-now-for-ignite-cleanweb</id>
-    <content type="html"><![CDATA[<p>It's only a month until <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite Cleanweb</a> hits London!</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/08/15/register-now-for-ignite-cleanweb</id>
+    <content type="html"><![CDATA[<p>It's only a month until <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite Cleanweb</a> hits London!</p>
 
 <p>We've got 12 great talks lined up for you, covering the whole range of cleanweb activity in the UK. Learn how <a href='http://loco2.com'>Loco2</a> and <a href='http://whipcar.com'>WhipCar</a> are using the web to change the face of travel, or, if you fancy something more technical, how to write climate-friendly code and run it in a climate-friendly datacentre.</p>
 

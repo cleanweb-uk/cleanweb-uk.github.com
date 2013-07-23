@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -14,10 +14,139 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Cleanweb and the Internet of Things: Storified]]></title>
+    <link href="http://cleanweb-uk.github.com/blog/2013/07/23/cleanweb-and-the-internet-of-things-storified/"/>
+    <updated>2013-07-23T09:22:00+01:00</updated>
+    <id>http://cleanweb-uk.github.com/blog/2013/07/23/cleanweb-and-the-internet-of-things-storified</id>
+    <content type="html"><![CDATA[<script src="http://cleanweb-uk.github.com//storify.com/CleanwebUK/cleanweb-and-the-internet-of-things.js" type="text/javascript" language="javascript"></script>
+
+
+<p><noscript>[<a href="http://cleanweb-uk.github.com//storify.com/CleanwebUK/cleanweb-and-the-internet-of-things" target="_blank">View the story &#8220;Cleanweb and the Internet of Things&#8221; on Storify</a>]</noscript></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cleanweb July - Cleanweb and the Internet of Things]]></title>
+    <link href="http://cleanweb-uk.github.com/blog/2013/07/17/cleanweb-july/"/>
+    <updated>2013-07-17T22:06:00+01:00</updated>
+    <id>http://cleanweb-uk.github.com/blog/2013/07/17/cleanweb-july</id>
+    <content type="html"><![CDATA[<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/arup.jpg" alt="the Arup building"></div>
+
+
+<p>This month, we&#8217;re teaming up with the Internet of Things Meetup group, to run an IoT-themed meetup in the <a href="http://www.arup.com/News/2010_04_April/15_Apr_2010_Arup_8_Fitzroy_St_Office_Design.aspx">suitably futuristic green-themed offices of Arup</a>, on <a href="https://maps.google.com/maps?q=8+Fitzroy+Street,+London,+United+Kingdom&amp;hl=en&amp;sll=37.0625,-95.677068&amp;sspn=48.77566,92.724609&amp;oq=8+fit&amp;hnear=8+Fitzroy+St,+London+W1T+4BJ,+United+Kingdom&amp;t=m&amp;z=16">8 Fitzroy Street</a>.</p>
+
+<h2>Schedule</h2>
+
+<h4>6:45 - Doors Open</h4>
+
+<h4>7:00 - Introduction and community announcements</h4>
+
+<p>What is the Internet of Things, and what is the Cleanweb, and why are they interesting together?</p>
+
+<h4>7:10 - Community announcements</h4>
+
+<p>Got a request for help with your project? Looking to hire someone who gets the web, and sustainability?</p>
+
+<p>Let us know at <a href="mailto:info@cleanweb.org">info@cleanweb.org</a>, and we&#8217;ll help spread the word.</p>
+
+<h4>7:20 - Demand Logic : Data mining to save energy in commercial buildings</h4>
+
+<p><a href="https://www.demandlogic.co.uk/">Joe Short - Demand Logic</a></p>
+
+<p>Joe tells the story of the founding of Demand Logic and outlines some of their recent experience of using data mining, machine learning and visualisations to focus attention on massive energy wastage in commercial buildings.</p>
+
+<h4>7:40 - Break for refreshments.</h4>
+
+<p>Refreshments generously provided by our hosts, Arup.</p>
+
+<h4>8:00 - Working my way off the grid with my Rasberry Pi</h4>
+
+<p><a href="http://www.linkedin.com/profile/view?id=38468260">Steve Pike</a> and <a href="http://www.linkedin.com/profile/view?id=91442281">Chris Elsmore</a> from <a href="http://www.carbonculture.net/">Carbon Culture</a></p>
+
+<p>Chris and Steve tells the story of hatching a plan to use Raspberry Pis and cheap solar panels to get off the grid, one gadget at a time, and the pitfalls and pratfalls along the way.</p>
+
+<h4>8:30 Sustainability and Transparency in an Internet of Things: Appending open data to physical things to foster more informed purchasing decisions.</h4>
+
+<p><a href="http://jessibaker.co.uk/">Jessi Baker</a> &amp; <a href="http://www.matthussey.co.uk/">Matt Hussey</a> from <a href="http://www.projectprovenance.com/">Provenance</a>.</p>
+
+<p>Provenance tells the true stories of products. It is a platform for transparency and it&#8217;s built on open data. We believe revealing the truth about how something is made can help us buy better things, both for the environment and for societies near and far.</p>
+
+<h4>9:00 Decamp to the pub!</h4>
+
+<h2>Interested?</h2>
+
+<p>As ever, places are limited but free, and you do need to RVSP, so if this sounds interesting to you, <a href="http://www.meetup.com/Cleanweb-London/events/120265922/">sign up now on our meetup.com page</a>.</p>
+
+<p>If you Lanyrd like us, <a href="http://lanyrd.com/2013/cleanweb-and-the-internet-of-things/">we&#8217;re also there</a>.</p>
+
+<p>See you on Monday!</p>
+
+<!-- links -->
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Cleanweb May - Climate Change]]></title>
+    <link href="http://cleanweb-uk.github.com/blog/2013/05/13/cleanweb-may/"/>
+    <updated>2013-05-13T22:06:00+01:00</updated>
+    <id>http://cleanweb-uk.github.com/blog/2013/05/13/cleanweb-may</id>
+    <content type="html"><![CDATA[<p>This month, we&#8217;ve got a financial flavour for the monthly meetup, with with a clutch of speakers, either using the financial markets to address climate change, or arm them with better info to make more long term sustainable decisions.</p>
+
+<h3>Venue</h3>
+
+<p>We&#8217;ve also been lent the ultra swanky offices of <a href="http://www.climatechangecapital.com/contact-us/offices/london-uk.aspx">Climate Change Capital</a> for the event, next to City Hall by London Bridge, so in between talks, we&#8217;ll have a change to admire London&#8217;s skyline.</p>
+
+<h3>Schedule</h3>
+
+<h4>7:00: Introductions and community announcements</h4>
+
+<p>Got a request for help with your project? Looking to hire someone who gets the web, and sustainability? Let us know.</p>
+
+<h4>7:20 - <a href="http://www.guardian.co.uk/environment/interactive/2013/apr/19/countries-exposed-carbon-bubble-map">Unburnable Carbon</a>: making the carbon bubble visible</h4>
+
+<p>Robin Houston and Duncan Clark - Kiln / The Guardian</p>
+
+<h4>7:40 - Break, refreshments and mingling</h4>
+
+<p>Refreshments courtesy of Climate Change Capital</p>
+
+<h4>8:00 - <a href="https://www.cdproject.net/en-US/Pages/HomePage.aspx">CDP</a>: Using open data to reduce the emissions of cities</h4>
+
+<p>Conor Riffle - Head of Cities, CDP</p>
+
+<h4>8:40 - <a href="http://www.trillionfund.com">The Trillion Fund</a>: Crowdfunding the rollout of renewables across the globe</h4>
+
+<p>Julia Groves - Managing Director, Trillian Fund</p>
+
+<h4>9:00 - Decamp to the <a href="http://www.drafthouse.co.uk">Draft House Pub</a></h4>
+
+<p>After the talks, we&#8217;re heading to the Draft House pub, which sports a staggeringly wide selection of beers, and offers some fantastic food.</p>
+
+<h3>Interested?</h3>
+
+<p>As ever, places are limited but free, and you do need to RVSP, so if this sounds interesting to you, <a href="http://www.meetup.com/Cleanweb-London/events/112033502/">sign up now on our meetup.com page</a>.</p>
+
+<p>If you Lanyrd like us, we&#8217;re also there <a href="http://lanyrd.com/2013/cleanweb-may-climate-change/">lanyrd</a>.</p>
+
+<h3>Working on something?</h3>
+
+<p>See you in a week!</p>
+
+<!-- links -->
+
+
+
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[The Cleanweb Story]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/04/29/the-cleanweb-story/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/04/29/the-cleanweb-story/"/>
     <updated>2013-04-29T06:30:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/04/29/the-cleanweb-story</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/04/29/the-cleanweb-story</id>
     <content type="html"><![CDATA[<p>We often get asked: &#8220;What is this cleanweb thing then?&#8221;, and the answer is usually different depending on who you ask. If I had to summarise it myself though (which I do), it would be something like this:</p>
 
 <blockquote><p>Cleanweb innovators use web technology to fight climate change, and build a more sustainable and resilient future.</p></blockquote>
@@ -40,9 +169,9 @@
   
   <entry>
     <title type="html"><![CDATA[Moving from Heroku to the clean cloud]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud/"/>
     <updated>2013-04-21T16:31:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud</id>
     <content type="html"><![CDATA[<p>Recently I have been building a new website for <a href="http://www.repowering.org.uk">Repowering</a> - a co-operative focused on radically increasing the number of renewable energy projects in London. Last weekend I migrated the website from <a href="http://www.heroku.com">Heroku</a> to <a href="http://www.greenqloud.com">GreenQloud</a>.</p>
 
 <h1>Whats wrong with Heroku?</h1>
@@ -51,14 +180,14 @@
 
 <h1>Moving to Greenqloud</h1>
 
-<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/greenqloud-logo-small.png" alt="Greenqloud logo"></div>
+<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/greenqloud-logo-small.png" alt="Greenqloud logo"></div>
 
 
 <p>There is a greener solution - the Icelandic company Greenqloud offer cloud hosting based in Iceland. As Iceland&#8217;s electricity system runs on geothermal and hydro power the server emissions are as close to zero carbon as you can get. Cost wise it&#8217;s comparable too. While Heroku is free for a single dyno, costs escalate rapidly as you start adding workers and features such as SSL.</p>
 
 <h1>Setting up the Virtual Machine for Rails</h1>
 
-<p><img src="http://www.cleanweb.org.uk/images/posts/greenqloud-dashboard.png" alt="Greenqloud dashboard"></p>
+<p><img src="http://cleanweb-uk.github.com/images/posts/greenqloud-dashboard.png" alt="Greenqloud dashboard"></p>
 
 <p>Greenqloud has an easy to use interface. It&#8217;s a few clicks to setup a new box and you get a browser based VNC client to do your initial configuration. Unlike Heroku however you need to setup the platform yourself. For something like Wordpress this is <a href="http://support.greenqloud.com/entries/22163871-Getting-started-with-GreenQloud-Part-1">quick and easy</a>, but for the Ruby on Rails application its a bit more involved. I spent 2 or 3 hours installing Ruby, Mongo, Redis, Nginx and configuring Unicorn and SSH.</p>
 
@@ -88,9 +217,9 @@
   
   <entry>
     <title type="html"><![CDATA[Do you want Open historical weather data?]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/03/17/open-weather-data/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/03/17/open-weather-data/"/>
     <updated>2013-03-17T16:31:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/03/17/open-weather-data</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/03/17/open-weather-data</id>
     <content type="html"><![CDATA[<p>What would you build if you had access to all the UK&#8217;s weather historical weather data?</p>
 
 <p>The Open Data User Group are currently building a case for getting the Met Office to open up all their historical weather data for anyone to use, but they need your help! Because opening this up will cost money, they need to get an idea of what people will use it for.</p>
@@ -110,10 +239,10 @@
   
   <entry>
     <title type="html"><![CDATA[Cleanweb Opens in Scotland]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/03/14/cleanweb-opens-in-scotland/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/03/14/cleanweb-opens-in-scotland/"/>
     <updated>2013-03-14T12:56:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/03/14/cleanweb-opens-in-scotland</id>
-    <content type="html"><![CDATA[<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/cca.jpg" alt="the CCA building from the outside"></div>
+    <id>http://cleanweb-uk.github.com/blog/2013/03/14/cleanweb-opens-in-scotland</id>
+    <content type="html"><![CDATA[<div style="margin: 0px 15px; margin-bottom:10px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/cca.jpg" alt="the CCA building from the outside"></div>
 
 
 <p><em><a href="http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">The call to action</a> for entrepreneurs and developers is being heard ever further. The 22nd March will see <a href="http://www.meetup.com/Cleanweb-Scotland/">the first Cleanweb meetup</a> in Scotland at Glasgow&#8217;s CCA.</em></p>
@@ -136,10 +265,10 @@
   
   <entry>
     <title type="html"><![CDATA[The Promise and the Perils of Efficiency]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/"/>
     <updated>2013-02-28T09:03:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency</id>
-    <content type="html"><![CDATA[<div style="margin: 0px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/ICT4S-and-zurich-small.png" alt="ICT4S Keynote"></div>
+    <id>http://cleanweb-uk.github.com/blog/2013/02/28/the-promise-and-the-perils-of-efficiency</id>
+    <content type="html"><![CDATA[<div style="margin: 0px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/ICT4S-and-zurich-small.png" alt="ICT4S Keynote"></div>
 
 
 <p><em>Two Cleanweb UK team members, <a href="https://twitter.com/JackTownsend_">Jack Townsend</a> and <a href="https://twitter.com/jasonneylon">Jason Neylon</a>, attended the <a href="http://www.ict4s.org/">First International Conference on ICT for Sustainability</a> (ICT4S 2013) in Zurich recently. Here is the first in a series of posts about the big themes presented at the conference.</em></p>
@@ -148,7 +277,7 @@
 
 <h2>Can ICT help decouple economic growth from resource use?</h2>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/ict4s-keynote.jpeg" alt="ICT4S Keynote"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/ict4s-keynote.jpeg" alt="ICT4S Keynote"></div>
 
 
 <p>Firstly we were asked by <a href="https://twitter.com/jcmankoff">Jennifer Mankoff</a>: how big are the reductions we can really expect, and are they enough? Alice Valvodova offered an optimistic assessment in the <a href="https://twitter.com/GeSIConnect">GESI</a> <a href="http://gesi.org/SMARTer2020">Smarter 2020 report</a>, with a 16% reduction possible by 2020. This would counter expected rises in global energy use, but wouldn&#8217;t make much of a dent in existing emissions. Historically, efficiency gains have apparently delivered much, but still haven&#8217;t kept up with economic growth; John Laitner asserted that something like 75% of new demand for energy-related goods had been met with efficiency gains since 1970. He sees efficiency as an economic imperative: inefficiency creates costs which constrain economic activity, whilst energy efficiency is correlated with the productivity of the economy.</p>
@@ -159,7 +288,7 @@
 
 <p>This tension between the economic and environmental benefits of efficiency leads us on to the second problem, a real humdinger: <strong>creating greater efficiency in individual processes often doesn&#8217;t lead to reductions in overall resource use</strong>, otherwise known as the <em>rebound effect</em>. In its worst guise, the <em>Jevons paradox</em>, it is found that the economic growth arising from such efficiency can massively increase overall use of the resource. Consider, for example, the great increase in demand for ICTs themselves, as Moore&#8217;s law has made them exponentially more efficient and thus cheaper.</p>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/spreng-triangle.png" alt="Spreng's Triangle"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/spreng-triangle.png" alt="Spreng's Triangle"></div>
 
 
 <p>These tensions are neatly mapped out on the <em>Spreng Triangle</em>, which places industries and process according to their relative use of three fundamental ingredients: energy (a proxy for environmental impact), information (a product of ICT), and time (a proxy for money). Daniel Spreng explained how research from the 80s into implementing ICTs in the textile industry had shown that they brought greater efficiency of energy use, but that they also allowed processes to be run faster, increasing energy use, and - given the choice in a world of cheap energy - it makes economic sense to use the ICTs to speed everything up and use more energy than maintain the original speed and save energy.</p>
@@ -174,7 +303,7 @@
 
 <blockquote><p>If we create a particular piece of software or hardware, what sort of effects can we expect and how will we know if they are good or bad for the environment?</p></blockquote>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/wicked-things.png" alt="Wicked things drawing"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/wicked-things.png" alt="Wicked things drawing"></div>
 
 
 <p>In his keynote, conference organizer Lorenz Hilty described his model of the impact of ICT on sustainability that separates first, second and third order effects. Whilst first order &#8220;direct&#8221; effects of the creation, use and disposal of the equipment can be reasonably well understood, things become more challenging when we start to analyse the second order effects of how we use it, and can become so complex as to be beyond practical measurement when we consider the myriad systematic third order effects, as complex human behaviours, economies and politics adapt to the presence of the technology. Thus introducing a very high power videoconferencing system may increase energy use in server farms (largely measurable first order effects), allow substitution of business travel, saving energy (second order effects), but by allowing people to develop longer distance relationships it could eventually lead to more long plane trips (third order effects, much more challenging to measure). And what further subtle implications for resource use could videoconferencing, have as the pattern of human relationships change? If we try and assess this system where do we set the boundaries of our model? Everything outside will be unmeasured and thus ignored.</p>
@@ -201,9 +330,9 @@
   
   <entry>
     <title type="html"><![CDATA[The first lightning talks night of 2013]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/02/12/first-lightning-talks-of-2013/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/02/12/first-lightning-talks-of-2013/"/>
     <updated>2013-02-12T17:39:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/02/12/first-lightning-talks-of-2013</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/02/12/first-lightning-talks-of-2013</id>
     <content type="html"><![CDATA[<p>After many of you braved ice and snow our last events selling out our last venue, we&#8217;ve defintely got a treat for you this month.</p>
 
 <h3>When and where</h3>
@@ -254,9 +383,9 @@
   
   <entry>
     <title type="html"><![CDATA[Open Data and the Environment]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/01/07/open-data-and-the-environment/"/>
     <updated>2013-01-07T23:59:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/01/07/open-data-and-the-environment</id>
     <content type="html"><![CDATA[<p>It&#8217;s the start of a new year, which can only mean one thing new meetup for the new month!</p>
 
 <p>For our first meet up of the year on <strong>Monday 21st Jan</strong>, we&#8217;ll be looking into the terribly trendy world of Open data, fitting enough, at swanky offices of the <a href="http://theodi.org/">Open Data Institute</a>.</p>
@@ -284,14 +413,14 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[How midata will fuel UK Cleanweb Innovation]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
     <updated>2012-12-31T13:02:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
-    <content type="html"><![CDATA[<p>We&#8217;ve mentioned before that we need to <a href="http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">experiment like crazy</a> to find solutions to to the planet scale problems we face as environmentally aware builders of the web. Midata is a scheme that could greatly ease the complexity of building services to help people live greener, more secure lives. After building a cleanweb app based around midata, then going to number 10 to talk with the policy wonks behind the scheme, here&#8217;s what you need to know.</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
+    <content type="html"><![CDATA[<p>We&#8217;ve mentioned before that we need to <a href="http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">experiment like crazy</a> to find solutions to to the planet scale problems we face as environmentally aware builders of the web. Midata is a scheme that could greatly ease the complexity of building services to help people live greener, more secure lives. After building a cleanweb app based around midata, then going to number 10 to talk with the policy wonks behind the scheme, here&#8217;s what you need to know.</p>
 
 <h1>What is midata?</h1>
 
-<div style="float: right; margin: 10 15"><img src="http://www.cleanweb.org.uk/images/midata.png" alt="midata logo"></div>
+<div style="float: right; margin: 10 15"><img src="http://cleanweb-uk.github.com/images/midata.png" alt="midata logo"></div>
 
 
 <p>After a long period of gestation, 2013 should be the year that the government’s midata vision becomes reality. Midata is an initiative by the Department of Business, Innovation and Skills (BIS) to allow consumers access to the personal data that companies store about them in an electronic format. This personal data will include <strong>energy bills and usage data that the energy companies store</strong>, as well as financial information stored by banks and transactional data stored by retailers. The scheme will also allow consumers to <strong>share their information</strong> with compatible applications and websites.</p>
@@ -317,7 +446,7 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
 
 <h1>The midata hackathon and emPowerMi</h1>
 
-<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Midata hackathon"></div>
+<div style="margin: 10px 15px; float: left"><img src="http://cleanweb-uk.github.com/images/midatahackthon.jpg" alt="Midata hackathon"></div>
 
 
 <p>In November, we attended the <a href="http://www.theodi.org/events/midata-hackathon-2012">midata hackathon</a> at the <a href="http://www.theodi.org/">Open Data Institute</a>. We helped develop an example website called <a href="http://empowermi.cleanweb.org.uk/">emPowerMi</a> to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available.</p>
@@ -326,7 +455,7 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
 
 <h1>Green Button</h1>
 
-<div style="margin: 0px 25px; float: right"><img src="http://www.cleanweb.org.uk/images/greenbutton.png" alt="Green button logo"></div>
+<div style="margin: 0px 25px; float: right"><img src="http://cleanweb-uk.github.com/images/greenbutton.png" alt="Green button logo"></div>
 
 
 <p>In September 2011 a similar initiative to midata was launched in the USA. Called <a href="http://www.greenbuttondata.org/">Green Button</a>, it has led to an explosion of new companies in the cleanweb space alongside widespread adoption by the energy companies. Hopefully with midata we can expect to see something similar happening in the UK.</p>
@@ -360,10 +489,10 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[Upcoming: Clean Clouds]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/11/05/clean-clouds/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/11/05/clean-clouds/"/>
     <updated>2012-11-05T09:23:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/11/05/clean-clouds</id>
-    <content type="html"><![CDATA[<p>It&#8217;s soon time for Cleanweb London&#8217;s monthly meeting, and this month we&#8217;re trying something a little different. After the success of our <a href="http://www.cleanweb.org.uk/ignite.html">Ignite Cleanweb</a> event in September, we&#8217;ve decided to try putting on more talks.</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/11/05/clean-clouds</id>
+    <content type="html"><![CDATA[<p>It&#8217;s soon time for Cleanweb London&#8217;s monthly meeting, and this month we&#8217;re trying something a little different. After the success of our <a href="http://cleanweb-uk.github.com/ignite.html">Ignite Cleanweb</a> event in September, we&#8217;ve decided to try putting on more talks.</p>
 
 <p>So, we&#8217;re excited to announce our first talk night on 19th November, 7pm at the <a href="http://theodi.org/">Open Data Institute</a>. We&#8217;ve got three great speakers lined up who are going to talk about cloud computing and its environmental impact:</p>
 
@@ -382,9 +511,9 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[Nominations now open for 2012 Cleanweb Awards]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards/"/>
     <updated>2012-11-02T12:50:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards</id>
     <content type="html"><![CDATA[<p>On 17th December, we&#8217;ll be holding our first <a href='http://www.meetup.com/Cleanweb-London/events/83832442/'>Cleanweb Awards</a> ceremony at <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> in Camden. It&#8217;ll be a fun evening celebrating all the achievments of the cleanweb community, and giving out a few awards as well.</p>
 
 <p>As it&#8217;s community-driven, we want <strong>your</strong> nominations for the awards! Just fill in the form below to let us know who you think should be in the running.</p>
@@ -416,28 +545,28 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[Mobilizing Developers to Make a Better Future]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/"/>
     <updated>2012-10-09T11:10:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future</id>
     <content type="html"><![CDATA[<p>We have <a href="http://nsidc.org/arcticseaicenews/2012/09/arctic-sea-ice-extent-settles-at-record-seasonal-minimum/">a problem</a>, and we don&#8217;t yet a decent solution. As a species, we&#8217;re running lemming-like off a whole bunch of cliffs, of which climate change is just the biggest and nearest. At the same time, an enormous amount of human innovation is going into <a href="http://www.businessweek.com/magazine/content/11_17/b4225060960537.htm">making people click more ads</a>.</p>
 
 <p>There&#8217;s a popular school of thought about climate change that says we don&#8217;t need to worry, because humanity always innovates its way out of a crisis. If that&#8217;s true, then <strong>we&#8217;d better get innovating right now</strong>, rather than waiting for others to do it, because we&#8217;re <strong>in the crisis</strong>. We need to <a href="http://www.forumforthefuture.org/blog/1000-100-10-1-why-we-need-experiment-crazy">experiment like crazy</a>, to try all the things that might help. Most will fail, as startups do, but if we try enough, something will work. If we can harness the kind of crazy innovation that&#8217;s created our modern web, we can do just about anything.</p>
 
 <p>It&#8217;s easy to think that software can&#8217;t fix anything <strong>real</strong>, but if you can write a line of code that saves someone energy, you leave a piece of coal unburnt. If you get someone out of their car and on a bus, you help take a fuel tanker off the road. In fact, I&#8217;m pretty sure that web software is the <strong>only</strong> thing we can scale quickly enough to make a serious difference in the time available.</p>
 
-<p>So, if you&#8217;re a developer, maker, or innovator, and love a challenge, why not pick the one that really could change the world, and for the better? Sign the <a href="http://www.cleanweb.org.uk/manifesto.html">Cleanweb Manifesto</a>, and strike out on the biggest adventure of your life.</p>
+<p>So, if you&#8217;re a developer, maker, or innovator, and love a challenge, why not pick the one that really could change the world, and for the better? Sign the <a href="http://cleanweb-uk.github.com/manifesto.html">Cleanweb Manifesto</a>, and strike out on the biggest adventure of your life.</p>
 
 <p>Cleanweb UK will be here to help you find a way to make your project sustainable, whether that&#8217;s finding a business or non-profit funding model, pointing you to people who can help, or just putting you in touch with like-minded friends you didn&#8217;t know you had.</p>
 
-<p>Stop selling people to advertisers. <a href="http://www.cleanweb.org.uk/get_involved.html">Join us</a>, and let&#8217;s fix the future.</p>
+<p>Stop selling people to advertisers. <a href="http://cleanweb-uk.github.com/get_involved.html">Join us</a>, and let&#8217;s fix the future.</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Because we don't want to bluescreen the planet]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/09/15/ignite-cleanweb-what-a-night/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/09/15/ignite-cleanweb-what-a-night/"/>
     <updated>2012-09-15T23:14:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/09/15/ignite-cleanweb-what-a-night</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/09/15/ignite-cleanweb-what-a-night</id>
     <content type="html"><![CDATA[<p>On Thursday 13th September, we ran our first ever Ignite Cleanweb event, at a fantastic venue  generously provided by the lovely people at <a href="http://forwardtechnology.co.uk">Forward</a>.</p>
 
 <p>And to put not too fine a point on it, it seems to have went far better than we dared hope - we wanted to showcase some of the best work happening at the intersection between sustainability and the web, and we had a clutch of speakers doing just that, showing how they were using the web to rethink mobility, mapping, and energy, food and supply chains to name a few of the talks on the night.</p>
@@ -469,9 +598,9 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[The Growing Cleanweb Movement]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/09/11/the-growing-cleanweb-movement/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/09/11/the-growing-cleanweb-movement/"/>
     <updated>2012-09-11T21:23:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/09/11/the-growing-cleanweb-movement</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/09/11/the-growing-cleanweb-movement</id>
     <content type="html"><![CDATA[<p>There is a movement growing. Bit by bit, developers are using the power of the web to make our world more sustainable. Whether by improving the way we travel, the way we eat, or the way we use energy, the web is making a difference. The <a href="http://cleanweb.co">Cleanweb</a> movement is building a global conversation, with local chapters running hackdays and meetups to get people together all over the world.</p>
 
 <p>Here in the UK, we&#8217;ve been doing this longer than anyone else. Cleanweb-style projects were emerging in 2007, with 2008&#8217;s <a href="https://mulqueeny.wordpress.com/2008/05/19/geekyoto-aftermath/">geeKyoto</a> conference bringing together a lot of early efforts.</p>
@@ -484,12 +613,12 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[Ignite Cleanweb Talk Details]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/09/05/ignite-cleanweb-talk-details/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/09/05/ignite-cleanweb-talk-details/"/>
     <updated>2012-09-05T12:05:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/09/05/ignite-cleanweb-talk-details</id>
-    <content type="html"><![CDATA[<p>Just 8 days to go until <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite Cleanweb</a> comes to London!</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/09/05/ignite-cleanweb-talk-details</id>
+    <content type="html"><![CDATA[<p>Just 8 days to go until <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite Cleanweb</a> comes to London!</p>
 
-<p>We&#8217;ve nearly finalised the list of talks, and have put the titles and speakers up on our <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite</a> page.</p>
+<p>We&#8217;ve nearly finalised the list of talks, and have put the titles and speakers up on our <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite</a> page.</p>
 
 <p>So, come along to <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a> on Thursday 13th September, and learn how <a href='http://loco2.com'>Loco2</a> took on <em>the European Rail Booking Monster</em>, or maybe how to live <em>Offgrid in the City</em>. How about <em>Good Food, For Everyone, Forever</em>, courtesy of <a href='http://sustaination.co'>Sustaination</a>, or <em>how open hardware can help save energy</em> with <a href='http://openenergymonitor.org/'>OpenEnergyMonitor</a>?</p>
 
@@ -501,10 +630,10 @@ for the speakers, before heading out by 9pm to continuing the conversation outsi
   
   <entry>
     <title type="html"><![CDATA[Register now for Ignite Cleanweb!]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/08/15/register-now-for-ignite-cleanweb/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/08/15/register-now-for-ignite-cleanweb/"/>
     <updated>2012-08-15T22:27:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/08/15/register-now-for-ignite-cleanweb</id>
-    <content type="html"><![CDATA[<p>It&#8217;s only a month until <a href='http://www.cleanweb.org.uk/ignite.html'>Ignite Cleanweb</a> hits London!</p>
+    <id>http://cleanweb-uk.github.com/blog/2012/08/15/register-now-for-ignite-cleanweb</id>
+    <content type="html"><![CDATA[<p>It&#8217;s only a month until <a href='http://cleanweb-uk.github.com/ignite.html'>Ignite Cleanweb</a> hits London!</p>
 
 <p>We&#8217;ve got 12 great talks lined up for you, covering the whole range of cleanweb activity in the UK. Learn how <a href='http://loco2.com'>Loco2</a> and <a href='http://whipcar.com'>WhipCar</a> are using the web to change the face of travel, or, if you fancy something more technical, how to write climate-friendly code and run it in a climate-friendly datacentre.</p>
 
@@ -517,9 +646,9 @@ good conversation, and a few beers thrown in, it should be a night to remember.<
   
   <entry>
     <title type="html"><![CDATA[Ignite Cleanweb: Call for presenters]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/07/10/ignite-cleanweb-call-for-presenters/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/07/10/ignite-cleanweb-call-for-presenters/"/>
     <updated>2012-07-10T08:39:00+01:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/07/10/ignite-cleanweb-call-for-presenters</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/07/10/ignite-cleanweb-call-for-presenters</id>
     <content type="html"><![CDATA[<p><a href="http://www.cleanweb.org.uk/">Cleanweb UK</a> are excited to announce our first <a href="http://igniteshow.com/">Ignite</a> evening in London, hosted by <a href="http://forwardtechnology.co.uk/venue">Forward Technology</a> on <strong>Thursday 13th September 2012</strong>.</p>
 
 <p><a href="http://igniteshow.com/">Ignite</a> is a geek event that has been held in over 100 cities worldwide. At the events, Ignite presenters share their personal and professional passions, using 20 slides that auto-advance every 15 seconds for a total of just five minutes. Add some beers and interesting conversation, and it should be a night to remember!</p>

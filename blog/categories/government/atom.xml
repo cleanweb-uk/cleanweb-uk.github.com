@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: government | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/government/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/government/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,14 +15,14 @@
   
   <entry>
     <title type="html"><![CDATA[How midata will fuel UK Cleanweb Innovation]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/"/>
     <updated>2012-12-31T13:02:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
+    <id>http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation</id>
     <content type="html"><![CDATA[<p>We've mentioned before that we need to <a href="/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/">experiment like crazy</a> to find solutions to to the planet scale problems we face as environmentally aware builders of the web. Midata is a scheme that could greatly ease the complexity of building services to help people live greener, more secure lives. After building a cleanweb app based around midata, then going to number 10 to talk with the policy wonks behind the scheme, here's what you need to know.</p>
 
 <h1>What is midata?</h1>
 
-<div style="float: right; margin: 10 15"><img src="http://www.cleanweb.org.uk/images/midata.png" alt="midata logo"></div>
+<div style="float: right; margin: 10 15"><img src="http://cleanweb-uk.github.com/images/midata.png" alt="midata logo"></div>
 
 
 <p>After a long period of gestation, 2013 should be the year that the government’s midata vision becomes reality. Midata is an initiative by the Department of Business, Innovation and Skills (BIS) to allow consumers access to the personal data that companies store about them in an electronic format. This personal data will include <strong>energy bills and usage data that the energy companies store</strong>, as well as financial information stored by banks and transactional data stored by retailers. The scheme will also allow consumers to <strong>share their information</strong> with compatible applications and websites.</p>
@@ -48,7 +48,7 @@
 
 <h1>The midata hackathon and emPowerMi</h1>
 
-<div style="margin: 10px 15px; float: left"><img src="http://www.cleanweb.org.uk/images/midatahackthon.jpg" alt="Midata hackathon"></div>
+<div style="margin: 10px 15px; float: left"><img src="http://cleanweb-uk.github.com/images/midatahackthon.jpg" alt="Midata hackathon"></div>
 
 
 <p>In November, we attended the <a href="http://www.theodi.org/events/midata-hackathon-2012">midata hackathon</a> at the <a href="http://www.theodi.org/">Open Data Institute</a>. We helped develop an example website called <a href="http://empowermi.cleanweb.org.uk/">emPowerMi</a> to explore what midata can offer. The website summaries a consumer’s yearly energy usage and recommends some energy saving measures that are available.</p>
@@ -57,7 +57,7 @@
 
 <h1>Green Button</h1>
 
-<div style="margin: 0px 25px; float: right"><img src="http://www.cleanweb.org.uk/images/greenbutton.png" alt="Green button logo"></div>
+<div style="margin: 0px 25px; float: right"><img src="http://cleanweb-uk.github.com/images/greenbutton.png" alt="Green button logo"></div>
 
 
 <p>In September 2011 a similar initiative to midata was launched in the USA. Called <a href="http://www.greenbuttondata.org/">Green Button</a>, it has led to an explosion of new companies in the cleanweb space alongside widespread adoption by the energy companies. Hopefully with midata we can expect to see something similar happening in the UK.</p>

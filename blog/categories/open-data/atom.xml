@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: open data | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/open-data/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/open-data/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Do you want Open historical weather data?]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/03/17/open-weather-data/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/03/17/open-weather-data/"/>
     <updated>2013-03-17T16:31:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/03/17/open-weather-data</id>
+    <id>http://cleanweb-uk.github.com/blog/2013/03/17/open-weather-data</id>
     <content type="html"><![CDATA[<p>What would you build if you had access to all the UK's weather historical weather data?</p>
 
 <p>The Open Data User Group are currently building a case for getting the Met Office to open up all their historical weather data for anyone to use, but they need your help! Because opening this up will cost money, they need to get an idea of what people will use it for.</p>

@@ -1,121 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/07/10/ignite-cleanweb-call-for-presenters/</loc>
+        <loc>
+            http://cleanweb-uk.github.com/blog/2012/07/10/ignite-cleanweb-call-for-presenters/
+        </loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/08/15/register-now-for-ignite-cleanweb/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2012/08/15/register-now-for-ignite-cleanweb/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/09/05/ignite-cleanweb-talk-details/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2012/09/05/ignite-cleanweb-talk-details/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/09/11/the-growing-cleanweb-movement/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2012/09/11/the-growing-cleanweb-movement/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/09/15/ignite-cleanweb-what-a-night/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2012/09/15/ignite-cleanweb-what-a-night/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.cleanweb.org.uk/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/
+            http://cleanweb-uk.github.com/blog/2012/10/09/mobilizing-developers-to-make-a-better-future/
         </loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.cleanweb.org.uk/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards/
+            http://cleanweb-uk.github.com/blog/2012/11/02/nominations-open-for-2012-cleanweb-awards/
         </loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2012/11/05/clean-clouds/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2012/11/05/clean-clouds/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.cleanweb.org.uk/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/
+            http://cleanweb-uk.github.com/blog/2012/12/31/how-midata-will-fuel-uk-cleanweb-innovation/
         </loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2013/01/07/open-data-and-the-environment/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/01/07/open-data-and-the-environment/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2013/02/12/first-lightning-talks-of-2013/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/02/12/first-lightning-talks-of-2013/</loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/
+            http://cleanweb-uk.github.com/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/
         </loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2013/03/14/cleanweb-opens-in-scotland/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/03/14/cleanweb-opens-in-scotland/</loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2013/03/17/open-weather-data/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/03/17/open-weather-data/</loc>
         <lastmod>2013-03-20T21:14:01+00:00</lastmod>
     </url>
     <url>
         <loc>
-            http://www.cleanweb.org.uk/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud/
+            http://cleanweb-uk.github.com/blog/2013/04/21/moving-from-heroku-to-the-clean-cloud/
         </loc>
         <lastmod>2013-04-29T15:16:11+01:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/2013/04/29/the-cleanweb-story/</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/04/29/the-cleanweb-story/</loc>
         <lastmod>2013-04-29T15:16:11+01:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/about.html</loc>
+        <loc>http://cleanweb-uk.github.com/blog/2013/05/13/cleanweb-may/</loc>
+        <lastmod>2013-07-23T09:20:48+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cleanweb-uk.github.com/blog/2013/07/17/cleanweb-july/</loc>
+        <lastmod>2013-07-23T09:20:48+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://cleanweb-uk.github.com/blog/2013/07/23/cleanweb-and-the-internet-of-things-storified/
+        </loc>
+        <lastmod>2013-07-23T09:23:50+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cleanweb-uk.github.com/about.html</loc>
         <lastmod>2013-03-17T16:20:19+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/blog/archives/</loc>
-        <lastmod>2013-04-29T15:16:11+01:00</lastmod>
+        <loc>http://cleanweb-uk.github.com/blog/archives/</loc>
+        <lastmod>2013-07-23T09:23:50+01:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/events.html</loc>
+        <loc>http://cleanweb-uk.github.com/events.html</loc>
         <lastmod>2013-03-17T16:02:28+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/get_involved.html</loc>
+        <loc>http://cleanweb-uk.github.com/get_involved.html</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/ignite.html</loc>
+        <loc>http://cleanweb-uk.github.com/ignite.html</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/</loc>
+        <loc>http://cleanweb-uk.github.com/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/manifesto.html</loc>
+        <loc>http://cleanweb-uk.github.com/manifesto.html</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/podcast.html</loc>
+        <loc>http://cleanweb-uk.github.com/podcast.html</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/publications/</loc>
+        <loc>http://cleanweb-uk.github.com/publications/</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/publications/open_data.html</loc>
+        <loc>http://cleanweb-uk.github.com/publications/open_data.html</loc>
         <lastmod>2013-02-04T20:51:50+00:00</lastmod>
     </url>
     <url>
-        <loc>http://www.cleanweb.org.uk/speaking_at_a_cleanweb_event.html</loc>
+        <loc>http://cleanweb-uk.github.com/speaking_at_a_cleanweb_event.html</loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
     </url>
 </urlset>

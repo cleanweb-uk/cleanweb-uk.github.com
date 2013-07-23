@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: ICT4S | Cleanweb UK]]></title>
-  <link href="http://www.cleanweb.org.uk/blog/categories/ict4s/atom.xml" rel="self"/>
-  <link href="http://www.cleanweb.org.uk/"/>
-  <updated>2013-04-29T15:17:27+01:00</updated>
-  <id>http://www.cleanweb.org.uk/</id>
+  <link href="http://cleanweb-uk.github.com/blog/categories/ict4s/atom.xml" rel="self"/>
+  <link href="http://cleanweb-uk.github.com/"/>
+  <updated>2013-07-23T09:23:51+01:00</updated>
+  <id>http://cleanweb-uk.github.com/</id>
   <author>
     <name><![CDATA[Cleanweb UK]]></name>
     
@@ -15,10 +15,10 @@
   
   <entry>
     <title type="html"><![CDATA[The Promise and the Perils of Efficiency]]></title>
-    <link href="http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/"/>
+    <link href="http://cleanweb-uk.github.com/blog/2013/02/28/the-promise-and-the-perils-of-efficiency/"/>
     <updated>2013-02-28T09:03:00+00:00</updated>
-    <id>http://www.cleanweb.org.uk/blog/2013/02/28/the-promise-and-the-perils-of-efficiency</id>
-    <content type="html"><![CDATA[<div style="margin: 0px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/ICT4S-and-zurich-small.png" alt="ICT4S Keynote"></div>
+    <id>http://cleanweb-uk.github.com/blog/2013/02/28/the-promise-and-the-perils-of-efficiency</id>
+    <content type="html"><![CDATA[<div style="margin: 0px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/ICT4S-and-zurich-small.png" alt="ICT4S Keynote"></div>
 
 
 <p><em>Two Cleanweb UK team members, <a href="https://twitter.com/JackTownsend_">Jack Townsend</a> and <a href="https://twitter.com/jasonneylon">Jason Neylon</a>, attended the <a href="http://www.ict4s.org/">First International Conference on ICT for Sustainability</a> (ICT4S 2013) in Zurich recently. Here is the first in a series of posts about the big themes presented at the conference.</em></p>
@@ -27,7 +27,7 @@
 
 <h2>Can ICT help decouple economic growth from resource use?</h2>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/ict4s-keynote.jpeg" alt="ICT4S Keynote"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/ict4s-keynote.jpeg" alt="ICT4S Keynote"></div>
 
 
 <p>Firstly we were asked by <a href="https://twitter.com/jcmankoff">Jennifer Mankoff</a>: how big are the reductions we can really expect, and are they enough? Alice Valvodova offered an optimistic assessment in the <a href="https://twitter.com/GeSIConnect">GESI</a> <a href="http://gesi.org/SMARTer2020">Smarter 2020 report</a>, with a 16% reduction possible by 2020. This would counter expected rises in global energy use, but wouldn't make much of a dent in existing emissions. Historically, efficiency gains have apparently delivered much, but still haven't kept up with economic growth; John Laitner asserted that something like 75% of new demand for energy-related goods had been met with efficiency gains since 1970. He sees efficiency as an economic imperative: inefficiency creates costs which constrain economic activity, whilst energy efficiency is correlated with the productivity of the economy.</p>
@@ -38,7 +38,7 @@
 
 <p>This tension between the economic and environmental benefits of efficiency leads us on to the second problem, a real humdinger: <strong>creating greater efficiency in individual processes often doesn't lead to reductions in overall resource use</strong>, otherwise known as the <em>rebound effect</em>. In its worst guise, the <em>Jevons paradox</em>, it is found that the economic growth arising from such efficiency can massively increase overall use of the resource. Consider, for example, the great increase in demand for ICTs themselves, as Moore's law has made them exponentially more efficient and thus cheaper.</p>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/spreng-triangle.png" alt="Spreng's Triangle"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/spreng-triangle.png" alt="Spreng's Triangle"></div>
 
 
 <p>These tensions are neatly mapped out on the <em>Spreng Triangle</em>, which places industries and process according to their relative use of three fundamental ingredients: energy (a proxy for environmental impact), information (a product of ICT), and time (a proxy for money). Daniel Spreng explained how research from the 80s into implementing ICTs in the textile industry had shown that they brought greater efficiency of energy use, but that they also allowed processes to be run faster, increasing energy use, and - given the choice in a world of cheap energy - it makes economic sense to use the ICTs to speed everything up and use more energy than maintain the original speed and save energy.</p>
@@ -53,7 +53,7 @@
 
 <blockquote><p>If we create a particular piece of software or hardware, what sort of effects can we expect and how will we know if they are good or bad for the environment?</p></blockquote>
 
-<div style="margin: 10px 15px; float: right"><img src="http://www.cleanweb.org.uk/images/posts/wicked-things.png" alt="Wicked things drawing"></div>
+<div style="margin: 10px 15px; float: right"><img src="http://cleanweb-uk.github.com/images/posts/wicked-things.png" alt="Wicked things drawing"></div>
 
 
 <p>In his keynote, conference organizer Lorenz Hilty described his model of the impact of ICT on sustainability that separates first, second and third order effects. Whilst first order "direct" effects of the creation, use and disposal of the equipment can be reasonably well understood, things become more challenging when we start to analyse the second order effects of how we use it, and can become so complex as to be beyond practical measurement when we consider the myriad systematic third order effects, as complex human behaviours, economies and politics adapt to the presence of the technology. Thus introducing a very high power videoconferencing system may increase energy use in server farms (largely measurable first order effects), allow substitution of business travel, saving energy (second order effects), but by allowing people to develop longer distance relationships it could eventually lead to more long plane trips (third order effects, much more challenging to measure). And what further subtle implications for resource use could videoconferencing, have as the pattern of human relationships change? If we try and assess this system where do we set the boundaries of our model? Everything outside will be unmeasured and thus ignored.</p>
