@@ -40,4 +40,10 @@ The current energy system was built in the late 19th century when distributed re
 
 #### 9:00 Decamp to [BrewDog](http://www.brewdog.com/bars/camden)!
 
-Interested in speaking at a future event? Get in touch!
+## Interested?
+
+As ever, places are limited but free, and you do need to RVSP, so if this sounds interesting to you, [sign up now on our meetup.com page](http://www.meetup.com/Cleanweb-London/events/126235782/).
+
+If you Lanyrd like us, [we're also there](http://lanyrd.com/2013/cleanweb-september-energy/).
+
+If you are interested in speaking at a future event do get in touch!
