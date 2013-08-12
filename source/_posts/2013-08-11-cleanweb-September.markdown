@@ -32,11 +32,11 @@ Refreshments generously provided by our hosts, Forward.
 
 #### 8:00 -&nbsp;Reducing PC energy consumption:&nbsp;[James Singleton](http://unop.co.uk/) -&nbsp;[Shutdown Scanner](http://shutdownscanner.com/)
 
-Reverse engineering an off the shelf home electricity monitor to log data to a Raspberry Pi, replacing PCs with lower power devices and using software to monitor computers left on when not needed._
+Reverse engineering an off the shelf home electricity monitor to log data to a Raspberry Pi, replacing PCs with lower power devices and using software to monitor computers left on when not needed.
 
 #### 8:30 - Internet of Power:&nbsp;[James Johnston](https://twitter.com/digitalenergy53) - [Open Utility](http://www.openutility.co.uk/)
 
-The current energy system was built in the late 19th century when distributed renewable energy and the Internet did not exist. My vision is to create a completely decentralised ‘Internet of Power’: a peer-to-peer energy network that enables individuals to source their electricity directly from power generators. The talk will suggest how this can be done and outline the technical and commercial challenges that lie ahead._
+The current energy system was built in the late 19th century when distributed renewable energy and the Internet did not exist. My vision is to create a completely decentralised ‘Internet of Power’: a peer-to-peer energy network that enables individuals to source their electricity directly from power generators. The talk will suggest how this can be done and outline the technical and commercial challenges that lie ahead.
 
 #### 9:00 Decamp to [BrewDog](http://www.brewdog.com/bars/camden)!
 
