@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Celebrating 2013"
+date: 2013-12-02 06:43
+comments: true
+categories: [london, events]
+author: James Smith
+---
+
+Here at Cleanweb UK, we've had quite a year. In [London](http://www.meetup.com/Cleanweb-London/), we've run a great event every month, on topics as diverse as gaming and finance, and membership has almost reached 600. We've got a new group off the ground in [Scotland](http://www.meetup.com/Cleanweb-Scotland), which has met a few times and had a successful collaboration with [Startup Weekend](http://www.cleanweb.org.uk/blog/2013/09/27/where-cleanweb-and-startup-weekend-collide/). 
+
+Now, the end of the year is coming around, and so it's time for something a bit special to celebrate such a great year!
+
+## Lightning Talks
+
+Because of all of that, [Cleanweb London in December](http://www.meetup.com/Cleanweb-London/events/150675492/) will be a celebration of our brilliant community; we'll be holding a lightning talks evening, and we want to hear from YOU. What's your big idea? How are *you* going to change the world? Whether it's something you've already done, something you want to make, or a way in which you're doing things differently, we want you to come along and inspire your community.
+
+We're after 10 lightning talks, 5 minutes each maximum, and if you've never spoken in front of people before, don't be scared - lightning talks are a great way into doing it. It doesn't have to be technical, but if it's about sustainability on the web, we want to hear about it!
+
+Cleanweb London is on [16th December](http://www.meetup.com/Cleanweb-London/events/150675492/) (only two weeks away), so if you fancy speaking, get in touch via [email](mailto:info@cleanweb.org.uk) or [Twitter](http://twitter.com/cleanwebuk).
+
+Of course, the event would be nothing without the audience, and we want it to be a big one, so go and sign up on the [Meetup page](http://www.meetup.com/Cleanweb-London/events/150675492/) right now and we'll see you there!
+
+## Sponsors
+
+We're also looking for sponsors for the event to make it a bit more special, so if your company is interested in supporting our fantastic community, please get in touch.
