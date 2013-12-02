@@ -91,16 +91,30 @@
         <lastmod>2013-07-23T09:23:50+01:00</lastmod>
     </url>
     <url>
+        <loc>http://cleanweb-uk.github.com/blog/2013/08/11/cleanweb-September/</loc>
+        <lastmod>2013-12-01T22:01:21+00:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://cleanweb-uk.github.com/blog/2013/09/27/where-cleanweb-and-startup-weekend-collide/
+        </loc>
+        <lastmod>2013-12-01T22:01:21+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cleanweb-uk.github.com/blog/2013/12/02/celebrating-2013/</loc>
+        <lastmod>2013-12-02T06:59:45+00:00</lastmod>
+    </url>
+    <url>
         <loc>http://cleanweb-uk.github.com/about.html</loc>
         <lastmod>2013-03-17T16:20:19+00:00</lastmod>
     </url>
     <url>
         <loc>http://cleanweb-uk.github.com/blog/archives/</loc>
-        <lastmod>2013-07-23T09:23:50+01:00</lastmod>
+        <lastmod>2013-12-02T06:59:45+00:00</lastmod>
     </url>
     <url>
         <loc>http://cleanweb-uk.github.com/events.html</loc>
-        <lastmod>2013-03-17T16:02:28+00:00</lastmod>
+        <lastmod>2013-12-02T07:02:36+00:00</lastmod>
     </url>
     <url>
         <loc>http://cleanweb-uk.github.com/get_involved.html</loc>
@@ -133,5 +147,9 @@
     <url>
         <loc>http://cleanweb-uk.github.com/speaking_at_a_cleanweb_event.html</loc>
         <lastmod>2013-03-17T15:51:24+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://cleanweb-uk.github.com/talks.html</loc>
+        <lastmod>2013-12-02T07:06:44+00:00</lastmod>
     </url>
 </urlset>
