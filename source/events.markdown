@@ -10,23 +10,19 @@ footer: true
 Meetups
 -------
 
-We have two active meetup groups, together forming the biggest Cleanweb group in the world, with over 330 members. We meet regularly for pub discussions and slightly more formal talk nights.
+We have two active meetup groups (and one still forming), together forming the biggest Cleanweb group in the world, with over 600 members. We meet regularly for pub discussions and slightly more formal talk nights.
 
 * [Cleanweb London](http://www.meetup.com/Cleanweb-London)
 * [Cleanweb Scotland](http://www.meetup.com/Cleanweb-Scotland)
+* [Cleanweb Brighton](http://www.meetup.com/Cleanweb-Brighton)
 
-We also have a small community starting up in [Brighton](http://www.meetup.com/Cleanweb-Brighton). If you'd like to start a group in your area, please [get in touch](mailto:info@cleanweb.org.uk) and we'll help any way we can.
+If you'd like to start a group in your area, please [get in touch](mailto:info@cleanweb.org.uk) and we'll help any way we can.
 
 
 Hackdays
 --------
 
 Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) to get the latest updates.
-
-Upcoming:
-
-* [Urban Prototyping Hackathon](http://london.urbanprototyping.org/home/events/hackathon-april-19th-21st/) 19th-21st April 2013, London
-
 
 Ongoing series:
 
