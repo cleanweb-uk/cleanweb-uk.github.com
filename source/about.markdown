@@ -40,7 +40,7 @@ Cleanweb UK is organised by:
   </li>
   <li class="span2">
     <a href="http://twitter.com/jasonneylon" class="thumbnail">
-      <img src="https://twimg0-a.akamaihd.net/profile_images/102028940/jnsp_normal.jpg" alt="@jasonneylon">
+      <img src="https://pbs.twimg.com/profile_images/378800000400348996/22e0636fd3e4f4debb82aaa7c60d6f98_normal.jpeg" alt="@jasonneylon">
       <p><strong>Jason Neylon</strong><br/>@jasonneylon</p>
     </a>
   </li>
