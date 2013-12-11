@@ -23,18 +23,12 @@ Hackdays
 
 Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) to get the latest updates.
 
-Upcoming:
-
-* [Urban Prototyping Hackathon](http://london.urbanprototyping.org/home/events/hackathon-april-19th-21st/) 19th-21st April 2013, London
-
-
 Ongoing series:
 
 * [Cleanweb Hackathon](http://cleanwebhack.com)
 * [Green Hackathon](http://greenhackathon.com)
 
-
-Lanyrd
+Upcoming
 ------
 
 * Follow the [Cleanweb Events guide](http://lanyrd.com/guides/cleanweb-events/) on Lanyrd for other interesting events.

@@ -2,6 +2,7 @@
 layout: page
 sharing: true
 comments: true
+alias: [/ignite.html]
 ---
 
 <div style='text-align: center'>
@@ -11,7 +12,7 @@ comments: true
 <p style='margin-top: 20px'>
   On Thursday 13th September 2012, Cleanweb UK held our first <a href='http://igniteshow.com'>Ignite</a> evening in London, hosted by 
   <a href='http://forwardtechnology.co.uk/venue'>Forward Technology</a>! We had a great selection of lightning talks covering the
-  whole range of cleanweb activity in the UK. If you couldn't make it, never fear - you can watch all the videos online right now:
+  whole range of cleanweb activity in the UK. 
 </p>
 <div class='well' id='talks'>
   <div class='row-fluid' style='text-align:center'>
@@ -115,10 +116,3 @@ comments: true
     </ul>
   </div>    
 </div>
-<hr/>
-<h1>Blog Posts</h1>
-{% for post in site.categories['ignite'] reverse %}
-<article>
-  {% include archive_post.html %}
-</article>
-{% endfor %}
