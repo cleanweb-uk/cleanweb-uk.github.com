@@ -44,3 +44,8 @@ img.avatar {
 .organizers p {
   text-align: center;
 }
+
+.video {
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
