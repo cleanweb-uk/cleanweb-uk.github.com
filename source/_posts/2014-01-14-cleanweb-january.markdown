@@ -17,7 +17,9 @@ Another great line-up of speakers will investigate what design can do for sustai
 ### [Claire Rowland](http://twitter.com/clurr) - The mental models and user experiences challenges of green, warm homes
 ### [Rob Maslin](http://twitter.com/RobMaslin) - Designing for an economy that uses resources better 
 ### [James Christie](http://twitter.com/JC_UX) - Designing energy efficient web apps 
-### [Paul Tanner](http://twitter.com/paul_tanner) - Airsome – Turning bikes into pollution sensors in London
+### [Luke Nicholson](http://twitter.com/ekul) - UX for sustainable behaviour change 
+### [Katz Kiely](http://twitter.com/katsy) - Loop Labs: quantified community and the smart citizen 
+### [Alice Tyler](http://twitter.com/altyler) - User testing for cleanweb projects
 
 
 ## Schedule 
