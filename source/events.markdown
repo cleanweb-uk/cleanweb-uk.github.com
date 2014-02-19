@@ -25,7 +25,6 @@ Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) t
 
 Ongoing series:
 
-* [Cleanweb Hackathon](http://cleanwebhack.com)
 * [Green Hackathon](http://greenhackathon.com)
 
 Upcoming
