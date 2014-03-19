@@ -1,6 +1,7 @@
 ---
-layout: default
-sharing: false
+date: 2014-03-19 21:55
+layout: page
+sharing: true
 ---
 
 <div class="span9">
@@ -9,28 +10,24 @@ sharing: false
     <h1>{{site.title}}</h1>
     <h2>{{site.subtitle}}</h2>
   </div>
-  
-  {% assign index = true %}
-  {% for post in site.posts limit:1 %}
-  {% assign content = post.content %}
-    <article>
-      {% include article.html %}
-    </article>
-  {% endfor %}
-  <ul class="pager">
-    {% if paginator.next_page %}
-    <li class="previous"><a href="{{paginator.next_page}}">&larr; Older</a></li>
-    {% endif %}
-    <li><a href="/blog/archives">Blog Archives</a></li>
-    {% if paginator.previous_page %}
-    <li class="next"><a href="{{paginator.previous_page}}">Newer &rarr;</a></li>
-    {% endif %}
-  </ul>
+
+<div>
+<p>We are <strong>Cleanweb UK</strong>, a non-profit group dedicated to raising the profile of the cleanweb movement in the UK.</p>
+
+<div class='well'>
+  Cleanweb is where cleantech meets the cloud; where sustainability meets social media.
 </div>
-<div class="sidebar-nav span3">
-  {% if site.blog_index_asides.size %}
-    {% include_array blog_index_asides %}
-  {% else %}
-    {% include_array default_asides %}
-  {% endif %}
+
+<p>We have a big problem to solve, and the web is the fastest-moving tool we have.Whether you're building energy monitoring systems, helping people network around local food, or making the web itself greener,
+if you're developing online tools for sustainability, you're part of the cleanweb. Glad to have you on board!</p>
+<p>
+If you're working on the cleanweb and want help, information, or just the knowledge that there's someone else
+out there, <strong>Cleanweb UK</strong> is for you.
+</p>
+
+<div style="padding-top: 30px">
+    <iframe width="250" height="570" src="http://meetu.ps/2ghXX0" frameborder="0"></iframe>
+    <iframe width="250" height="570" style="padding-left: 30px" src="http://meetu.ps/2gj3PM" frameborder="0"></iframe>
+</div>
+
 </div>

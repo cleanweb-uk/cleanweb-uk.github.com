@@ -18,17 +18,19 @@ We have two active meetup groups, together forming the biggest Cleanweb group in
 We also have a small community starting up in [Brighton](http://www.meetup.com/Cleanweb-Brighton). If you'd like to start a group in your area, please [get in touch](mailto:info@cleanweb.org.uk) and we'll help any way we can.
 
 
-Hackdays
+Hackdays & Events
 --------
 
 Find a hackday near you! [Follow us on Twitter](http://twitter.com/cleanwebuk) to get the latest updates.
 
-Ongoing series:
+<div class="lanyrd-target-guide">
+    <a href="http://lanyrd.com/guides/cleanweb-events/"
+        class="lanyrd-guide"
+        data-lanyrd-context="future"
+        data-lanyrd-number="5"
+        data-lanyrd-nostyles>
+        Follow Cleanweb events on Lanyrd
+    </a>
+</div>
 
-* [Cleanweb Hackathon](http://cleanwebhack.com)
-* [Green Hackathon](http://greenhackathon.com)
-
-Upcoming
-------
-
-* Follow the [Cleanweb Events guide](http://lanyrd.com/guides/cleanweb-events/) on Lanyrd for other interesting events.
+<script src="http://cdn.lanyrd.net/badges/embed-v1.min.js"></script>

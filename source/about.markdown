@@ -6,20 +6,6 @@ sharing: true
 footer: true
 ---
 
-We are **Cleanweb UK**, a non-profit group dedicated to raising the profile of the cleanweb movement in the UK.
-
-<div class='well'>
-  Cleanweb is where cleantech meets the cloud; where sustainability meets social media.
-</div>
-
-We have a big problem to solve, and the web is the fastest-moving tool we have. Whether you're building
-energy monitoring systems, helping people network around local food, or making the web itself greener,
-if you're developing online tools for sustainability, you're part of the cleanweb. Glad to have you on 
-board!
-
-If you're working on the cleanweb and want help, information, or just the knowledge that there's someone else
-out there, **Cleanweb UK** is for you.
-
 Team
 ----
 
