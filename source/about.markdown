@@ -46,13 +46,13 @@ Cleanweb UK is organised by:
   </li>
   <li class="span2">
     <a href="http://twitter.com/JackTownsend_" class="thumbnail">
-      <img src="https://twimg0-a.akamaihd.net/profile_images/2510539366/mzocdbug2i04qw3au7x5_normal.gif" alt="@JackTownsend_">
+      <img src="https://pbs.twimg.com/profile_images/2510539366/mzocdbug2i04qw3au7x5_normal.gif" alt="@JackTownsend_">
       <p><strong>Jack Townsend</strong><br/>@JackTownsend_</p>
     </a>
   </li>
   <li class="span2">
     <a href="http://twitter.com/digitalWestie" class="thumbnail">
-      <img src="https://si0.twimg.com/profile_images/3209199019/c9741179f7a27a54b7f0c780451ba31d_normal.jpeg" alt="@digitalWestie">
+      <img src="https://pbs.twimg.com/profile_images/3209199019/c9741179f7a27a54b7f0c780451ba31d_normal.jpeg" alt="@digitalWestie">
       <p><strong>Rory Gianni</strong><br/>@digitalWestie</p>
     </a>
   </li>
