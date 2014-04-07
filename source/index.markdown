@@ -15,7 +15,7 @@ sharing: true
 <p>We are <strong>Cleanweb UK</strong>, a non-profit group dedicated to raising the profile of the cleanweb movement in the UK.</p>
 
 <div class='well'>
-  Cleanweb is where cleantech meets the cloud; where sustainability meets social media.
+  Cleanweb addresses resource and sustainability challenges with connected information technology
 </div>
 
 <p>We have a big problem to solve, and the web is the fastest-moving tool we have.Whether you're building energy monitoring systems, helping people network around local food, or making the web itself greener,
@@ -26,8 +26,8 @@ out there, <strong>Cleanweb UK</strong> is for you.
 </p>
 
 <div style="padding-top: 30px">
-    <iframe width="250" height="570" src="http://meetu.ps/2ghXX0" frameborder="0"></iframe>
-    <iframe width="250" height="570" style="padding-left: 30px" src="http://meetu.ps/2gj3PM" frameborder="0"></iframe>
+    <iframe width="250" height="570" style="padding-right: 30px" src="http://meetu.ps/2ghXX0" frameborder="0"></iframe>
+    <iframe width="250" height="570" src="http://meetu.ps/2gj3PM" frameborder="0"></iframe>
 </div>
 
 </div>
