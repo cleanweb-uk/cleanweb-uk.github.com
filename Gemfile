@@ -1,8 +1,5 @@
 source "http://rubygems.org"
 
-ruby '2.0.0'
-#ruby-gemset=octopress
-
 group :development do
   gem 'rake'
   gem 'rack'
